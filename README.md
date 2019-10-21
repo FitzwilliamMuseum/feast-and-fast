@@ -3,7 +3,7 @@
 This repository will hold code for the Feast and Fast project. This project
 contains data pulled from AdLib, curatorial interpretation, video and audio content and additional materials. It is written in Jekyll, hosted on GH-Pages and is an experimental piece.
 
-
+![](/images/screenshots/screenshot-food.png)
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
