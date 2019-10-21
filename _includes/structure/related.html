@@ -39,7 +39,7 @@
     <ul>
         {% for file in page.technical %}
         <li>
-            <a href="/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
+            <a href="{{ site.baseurl }}/assets/pdfs/{{ file.file }}">{{ file.title }}</a>
         </li>
         {% endfor %}
     </ul>

@@ -13,7 +13,7 @@ title: Discover stories from the exhibition
           <div class="card h-100">
               <div class="card-body h-100 ">
               <div class="cover-image">
-                <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="/images/discover/{{ author.thumbnail }}"
+                <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/discover/{{ author.thumbnail }}"
                              alt="{{ page.title }}'s profile image" height="150" width="150">
               </div>
               <div class="contents-label">
@@ -24,7 +24,7 @@ title: Discover stories from the exhibition
 
                 <p class="card-text">{{ author.content | strip_html | truncatewords: 20}}</p>
                 </div>
-                <a href="{{ author.url }}" class="btn btn-dark">Read more</a>
+                <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more</a>
               </div>
           </div>
 

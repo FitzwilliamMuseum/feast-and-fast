@@ -15,7 +15,7 @@ title: Events and public wonder
               <div class="card-body h-100 ">
               <h3>{{ event.title }}</h3>
               <div class="cover-image">
-                <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="/images/events/{{ event.thumbnail }}"
+                <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/events/{{ event.thumbnail }}"
                              alt="{{page.title}}'s profile image" height="150" width="150">
               </div>
               <div class="contents-label">
@@ -29,7 +29,7 @@ title: Events and public wonder
                   <li>Venue: {{ event.venue }}</li>
                 </ul>
                 </div>
-                <a href="{{ event.url }}" class="btn btn-dark">Read more</a>
+                <a href="{{ site.baseurl }}{{ event.url }}" class="btn btn-dark">Read more</a>
               </div>
           </div>
 
