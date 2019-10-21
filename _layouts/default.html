@@ -37,7 +37,7 @@
         </div>
     </div>
       {% if page.url == "/" %}
-        <div class="col-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+        <div class="col-12 shadow-sm p-3 mx-auto mb-3  rounded intro-card">
             {{ content }}
         </div>
       {% elsif page.url == '/discover/' %}
@@ -49,7 +49,8 @@
           {{ content }}
       </div>
       {% else %}
-      <div class="ol-12 shadow-sm p-3 mx-auto mb-3 bg-white rounded">
+      <div class="ol-12 shadow-sm p-3 mx-auto mb-3
+     rounded intro-card">
           {% if page.author %}
           <div class="float-right p-3">
             <img class="align-self-center mr-3 rounded-circle thumb-post"

@@ -27,6 +27,13 @@
     background-size: cover;
     padding-top: 30rem;
   }
+  .box {
+    background-image: url(../images/layouts/box.jpg);
+    /* background-position: 50% 30%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30rem;
+  }
   .tools {
     background-image: url(../images/layouts/tools.jpg);
     /* background-position: 50% 30%; */
