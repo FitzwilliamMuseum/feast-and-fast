@@ -5,7 +5,7 @@ time: 14:00 to 15:30
 venue: "Education Studio (36), Gallery 11, Gallery 12, Gallery 13"
 cost: "£10 (£8 concessions)"
 layout: default
-thumbnail: christmasRecipes.jpg
+thumbnail: ChristmasRecipes.jpg
 slug: christmas-recipes
 ---
 

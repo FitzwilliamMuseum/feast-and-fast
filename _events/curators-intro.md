@@ -5,7 +5,7 @@ date-live: Wednesday 27 November 2019
 time: 13:15 to 14:00
 cost: Free
 venue: Seminar Room (35)
-thumbnail: 27nov.jpg
+thumbnail: 27Nov.jpg
 slug: curators-intro
 ---
 A talk with Dr Victoria Avery and Dr Melissa Calaresu, Exhibition Curators.
