@@ -6,6 +6,34 @@
     background-size: cover;
     padding-top: 30rem;
   }
+  .peacock {
+    background-image: url(../images/layouts/peacock.jpg);
+    /* background-position: 50% 30%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30rem;
+  }
+  .crockery {
+    background-image: url(../images/layouts/crockery.jpg);
+    /* background-position: 50% 30%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30rem;
+  }
+  .pavilion {
+    background-image: url(../images/layouts/pavilion.jpg);
+    /* background-position: 50% 30%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30rem;
+  }
+  .tools {
+    background-image: url(../images/layouts/tools.jpg);
+    /* background-position: 50% 30%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30rem;
+  }
 }
 
 

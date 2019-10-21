@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Events and public wonder
+category: crockery
 ---
 
 {% assign rows = site.events.size | divided_by: 2.0 | ceil %}

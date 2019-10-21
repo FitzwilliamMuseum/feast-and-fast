@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Discover stories from the exhibition
+category: peacock
 ---
 {% assign rows = site.discover.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
