@@ -9,27 +9,32 @@ category: peacock
   <div class="row">
   {% assign sorted = site.discover | sort:"order" %}
   {% for author in sorted limit:2 offset:offset %}
-     <div class="col-md-6 mt-3">
+  <div class="col-md-6 mb-3">
+    <div class="card card-body h-100
+    intro-card ">
 
-          <div class="card h-100">
-              <div class="card-body h-100 ">
-              <div class="cover-image">
-                <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/discover/{{ author.thumbnail }}"
-                             alt="{{ page.title }}'s profile image" height="150" width="150">
-              </div>
-              <div class="contents-label">
-                <h5 class="card-title">{{author.title}} </h5>
-                                    {% if author.job-title %}
-                                    <h6 class="text-muted">{{ author.job-title}} </h6>
-                                    {% endif %}
+    <div class="container h-100">
 
-                <p class="card-text">{{ author.content | strip_html | truncatewords: 20}}</p>
-                </div>
-                <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more</a>
-              </div>
-          </div>
+      <!-- start image block -->
 
+      <div class="cover-image ">
+        <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/discover/{{ author.thumbnail }}"
+                     alt="{{page.title}}'s profile image" height="150" width="150">
+      </div>
+
+      <!-- end image block -->
+
+      <div class="contents-label mb-3">
+      <h3>
+        <a href="{{ site.baseurl }}{{ author.url }}">{{ author.title }}</a>
+      </h3>
+        <p class="card-text">{{ author.content | strip_html | truncatewords: 20}}</p>
+      </div>
     </div>
-    {% endfor %}
+    <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more</a>
   </div>
-{% endfor %}
+
+  </div>
+  {% endfor %}
+  </div>
+  {% endfor %}
