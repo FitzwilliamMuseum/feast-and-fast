@@ -8,7 +8,7 @@ category: crockery
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
 <div class="row">
-{% assign sorted = site.events | sort:"date" %}
+{% assign sorted = site.events | sort:"date-live" %}
 {% for event in sorted limit:2 offset:offset %}
 <div class="col-md-6 mb-3">
   <div class="card card-body h-100
@@ -32,7 +32,7 @@ category: crockery
 
       <ul>
         <li>Time: {{ event.time }}</li>
-        <li>Date: {{ event.date-live }}</li>
+        <li>Date: {{ event.date-live | date: "%A %-d of %B, %Y"  }}</li>
         <li>Cost: {{ event.cost }}</li>
         <li>Venue: {{ event.venue }}</li>
       </ul>

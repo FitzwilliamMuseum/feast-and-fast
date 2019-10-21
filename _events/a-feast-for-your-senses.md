@@ -4,7 +4,7 @@ layout: default
 venue: Throughout the Museum
 cost: Free for general entry, cost for film Tickets
 time: 17:00 to 21:00
-date-live: Thursday 28 November 2019
+date-live: 2019-11-28
 thumbnail: 28Nov.jpg
 slug: a-feast-for-senses
 ---

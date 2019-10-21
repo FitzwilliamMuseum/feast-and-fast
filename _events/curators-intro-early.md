@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Early morning curators’ tour of Feast & Fast"
-date-live: Tuesday 3 December 2019
+date-live: 2019-12-03
 time: 09:15 to 10:00
 cost: £13.50 (£11.50 concessions)
 venue: Galleries 11, 12 and 13

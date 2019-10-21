@@ -2,7 +2,7 @@
 layout: default
 venue: Education Studio (36)
 time: 10:15 to 12:00
-date-live: Friday 29 November 2019
+date-live: 2019-11-29
 title: "MUSE: Food glorious food"
 cost: "£10"
 theme: "Sensual/Virtual"

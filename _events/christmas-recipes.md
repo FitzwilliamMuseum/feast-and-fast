@@ -1,6 +1,6 @@
 ---
 title: Christmas recipes
-date-live: Tuesday 17 December 2019
+date-live: 2019-12-17
 time: 14:00 to 15:30
 venue: "Education Studio (36), Gallery 11, Gallery 12, Gallery 13"
 cost: "£10 (£8 concessions)"

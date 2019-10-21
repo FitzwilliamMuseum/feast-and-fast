@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Curators’ introduction to Feast & Fast"
-date-live: Wednesday 27 November 2019
+date-live: 2019-11-27
 time: 13:15 to 14:00
 cost: Free
 venue: Seminar Room (35)

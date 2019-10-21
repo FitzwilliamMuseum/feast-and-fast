@@ -3,7 +3,7 @@ time: 09:30 to 15:30
 venue: "Galleries 11, 12, and 13"
 layout: default
 cost: "£10"
-date-live: Monday 2 December 2019
+date-live: 2019-12-02
 title: "Feast & Fast exhibition tour for people who love to move!"
 thumbnail: 2Dec.jpg
 slug: love-to-move
