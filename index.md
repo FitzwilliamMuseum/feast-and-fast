@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Feast and Fast: The art of food in Europe, 1500 –1800"
 ---
 
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 26 April 2020</h3>

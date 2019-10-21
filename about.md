@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Feast & Fast: The Art of Food in Europe, 1500–1800"
 category: tools
 ---
 

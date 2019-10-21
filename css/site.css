@@ -332,3 +332,8 @@ body {
   font-size: 10rem;
   margin-top:4rem;
 }
+.shout-less {
+  color: white!important;
+  font-family: 'Yrsa', serif;
+  font-size: 4rem;
+}
