@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Feast and Fast
+email: dejp3@cam.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/feast-and-fast" # the subpath of your site, e.g. /blog
+url: "https://feast-and-fast.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: fitzmuseum_uk
+github_username:  fitzwilliammuseum
+github_repo: feast-and-fast
+words_per_minute: 200
+mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
+rights: AGPL
+google_analytics: G-4
+content_license: CC-BY
+hashtag: "#feastfast"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-mentions
+
+collections:
+   discover:
+      output: true
+      permalink: /:collection/:name
+   events:
+      output: true
+      permalink: /:collection/:name
+
+timezone: Europe/London
+permalink: pretty
+encoding: "utf-8"
+read_time: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
