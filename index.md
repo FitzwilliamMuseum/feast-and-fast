@@ -4,6 +4,8 @@ layout: default
 
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 26 April 2020</h3>
 
+![](/images/layouts/pineapple_small.jpg){: .img-fluid .float-right .rounded}  
+
 Food defines us as individuals, communities, and nations: we are what we eat and,
 equally, what we don’t eat. When, where, why, how and with whom we eat are crucial
 to our identity. Feast & Fast presents novel approaches to understanding the
