@@ -23,7 +23,9 @@
 </a>
 
 {% include /structure/navigation.html %}
-
+{% if page.collection == 'discover' %}
+<div class="progress" id="progress-indicator"></div>
+{% endif %}
 {% if page.category %}
 {% assign class = page.category %}
 {% else %}
@@ -57,14 +59,9 @@
           {{ content }}
       </div>
       {% else %}
-      <div class="ol-12 shadow-sm p-3 mx-auto mb-3 rounded intro-card">
-          {% if page.author %}
-          <div class="float-right p-3">
-            <img class="align-self-center mr-3 rounded-circle thumb-post"
-               src="{{ site.baseurl }}/images/staff/{{ page.author_image }}"
-               alt="{{ page.author }}'s profile image" height="150" width="150">
-               <h4 class="text-center p-2">{{ page.author }}</h4>
-             </div>
+      <div class="col-12 shadow-sm p-3 mx-auto mb-3 rounded intro-card">
+          {% if page.collection == 'discover' %}
+          <span class="mb-1 mt-1 badge badge-wine float-right p-1">{% include read_time.html %}</span>
           {% endif %}
           {{ content }}
       </div>

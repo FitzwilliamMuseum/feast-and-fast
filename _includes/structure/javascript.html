@@ -12,3 +12,6 @@
 <script defer type="text/javascript" src="{{ site.baseurl }}/js/config.js"></script>
 <script defer type="text/javascript" src="{{ site.baseurl }}/js/klaro.js"></script>
 <!-- End of body -->
+{% if page.layout == 'default' and page.collection == 'discover' %}
+<script defer type="text/javascript" src="{{ site.baseurl }}/js/progress.js"></script>
+{% endif %}
