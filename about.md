@@ -1,6 +1,7 @@
 ---
 layout: default
 category: tools
+title: About the exhibition
 ---
 
 
