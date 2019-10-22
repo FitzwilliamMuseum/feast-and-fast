@@ -51,7 +51,7 @@ category: pavilion
 
       </div>
     </div>
-    <a href="{{ site.baseurl }}{{ author.url }}" class="btn btn-dark">Read more</a>
+    <a href="{{ site.baseurl }}/objects/{{ object.exhibition_number }}" class="btn btn-dark">Read more</a>
   </div>
 
   </div>
