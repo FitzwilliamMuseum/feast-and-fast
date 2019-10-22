@@ -1,4 +1,4 @@
-@media (min-width: 576px) {
+
   .parallax {
     min-height: 600px;
     background-attachment: fixed;
@@ -54,14 +54,13 @@
     background-size: cover;
   }
 
-}
 
 
 @media screen and (max-width: 400px) {
   .head {
     padding-top: 100px;
-    display: none;
-    visibility: hidden;
+    /* display: none; */
+    /* visibility: hidden; */
   }
   .hide {
     padding-top:5rem;
@@ -69,9 +68,20 @@
   .division {
     text-align: center;
   }
-  .jumbotron {
-    display: none;
+  .shout {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 6rem;
+    margin-top:4rem;
   }
+  .shout-less {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 2rem;
+  }
+  /* .jumbotron {
+    display: none;
+  } */
 }
 
 footer, .chip-icon {
@@ -346,6 +356,7 @@ label.cm-app-label {
 body {
   font-size: 1rem;
 }
+@media screen and (min-width: 400px) {
 .shout {
   color: white!important;
   font-family: 'Yrsa', serif;
@@ -356,6 +367,7 @@ body {
   color: white!important;
   font-family: 'Yrsa', serif;
   font-size: 4rem;
+}
 }
 .bg-black-opacity {
   background-color: rgba(000,0,0,0.7)!important;
