@@ -53,7 +53,11 @@
   .division {
     text-align: center;
   }
+  .jumbotron {
+    display: none;
+  }
 }
+
 footer, .chip-icon {
   background-color: #731200;
 }
@@ -336,4 +340,7 @@ body {
   color: white!important;
   font-family: 'Yrsa', serif;
   font-size: 4rem;
+}
+.bg-black-opacity {
+  background-color: rgba(000,0,0,0.7)!important;
 }
