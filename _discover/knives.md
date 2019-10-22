@@ -3,6 +3,7 @@ title: "From knives and roast birds to forks and bird pies: Changes in food fash
 layout: default
 slug: knives-and-roast-birds
 thumbnail: feast.jpg
+category: knives
 ---
 
 Dives and Lazarus is a parable told by Jesus, and recorded in Luke 16:19-31, in which the rich, greedy, and gluttonous Dives refuses to give any food to the poor and afflicted Lazarus who is begging at his gate. When they die, Dives ends up in hell while Lazarus goes to heaven. This painting was made as a warning to avoid greed and gluttony (two of the Seven Deadly Sins) and as a reminder to exercise charity by feeding the hungry (the first of the Seven Works of Mercy as prescribed by the Catholic Church).

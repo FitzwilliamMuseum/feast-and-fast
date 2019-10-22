@@ -3,18 +3,59 @@ layout: default
 title: "Tudor bling at High Table: Archbishop Matthew Parker’s silverware for Cambridge Colleges"
 thumbnail: tudor-plate.jpg
 ---
+
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 1:</strong> Matthew Parker’s two-handled cups and cover
+    Cover: possibly John Crathorn, London, England, 1531; Cup 1: possibly Lawrence Truechild, London, England, 1555; Cup 2: Unidentified maker, London, England, 1570.
+  </figcaption>
+</figure>
+
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 2:</strong> Matthew Parker’s rosewater basin
+    Unidentified maker, London, England, 1545. Corpus Christi College
+  </figcaption>
+</figure>
+
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 3:</strong> Matthew Parker’s ewer with hinged cover
+    London, England, 1545. Corpus Christi College
+  </figcaption>
+</figure>
+
 The Colleges of Cambridge own some of the most important pieces of Tudor secular (non-religious) silver anywhere in the world. Corpus Christi College has an unsurpassed collection of silver tableware – known as plate – thanks to several gifts from Norwich-born Matthew Parker, one-time Master and later Archbishop of Canterbury under Elizabeth I. While Parker made several lifetime donations to his old College, records prove that he hung onto most of it during his lifetime, only relinquishing it after his death. He also gave key pieces of silver to Gonville and Caius College and to Trinity Hall, both of which he favoured due to their Norwich connections. Feast & Fast reunites for the first time since 1975 one of Parker’s tankards from Gonville and Caius with a selection of Parker’s most important silver from Corpus. This astonishing array of Parker silver is displayed together with two rare and exotic 15th-century coconut cups from Caius, which are amongst the earliest known: a unique opportunity to see some priceless treasures of Cambridge College silver in the broader context of Tudor dining culture as conjured up by Ivan Day’s Renaissance sugar banquet for an English wedding for the Fitzwilliam exhibition.
 
 The two ‘ox-eye’ posset cups and lid (fig. 1) were amongst Parker’s last gifts to Corpus, and none of them match: one cup was new when it was given, one was 15 years old, and the lid was 24 years earlier still. The later cup appears to have been commissioned by Parker as a pair to the first one. They are amongst the earliest surviving examples of posset cups. Posset was a mixture of curdled milk and ale or sack; the narrow top is said to have been used to gather the floating curd, so it could be eaten or removed leaving the clear fluid to be drunk.
 
 The rosewater basin and ewer (figs 2-3) are late Gothic in style, dating from the reign of Henry VIII. They are the grandest pieces of silver that Parker gave to Corpus Christi; indeed, they are believed to be the earliest ewer and basin of this sort to survive anywhere in the world. They were made when Parker was Master, for his own use, and then gifted to the College on 1 September 1570. However, he retained them for use during his lifetime: they were only handed over to Corpus on 26 June 1575. They were used by diners to wash their hands during grand feasts – especially useful before the introduction of forks, which did not become common in England until the early 17th-century.
 
-4. Matthew Parker’s standing salt and cover
-Attributed to Robert Danbe, London, England, 1562. Corpus Christi College
-5. Matthew Parker’s great standing cup and cover with ‘man-and-staff’ finial
-Unidentified maker, London, England, 1569. Corpus Christi College
-6. Matthew Parker’s tankard with hinged domed cover
-Attributed to Roger Flint I, London, England, 1570. Gonville and Caius College
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 4:</strong> Matthew Parker’s standing salt and cover
+    Attributed to Robert Danbe, London, England, 1562. Corpus Christi College
+  </figcaption>
+</figure>
+
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 5:</strong> Matthew Parker’s great standing cup and cover with ‘man-and-staff’ finial
+    Unidentified maker, London, England, 1569. Corpus Christi College
+  </figcaption>
+</figure>
+<figure class="figure col-md-12">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 6:</strong> Matthew Parker’s tankard with hinged domed cover
+    Attributed to Roger Flint I, London, England, 1570. Gonville and Caius College
+  </figcaption>
+</figure>
 
 Cylinder salts were the height of fashion from c.1550, and remained popular throughout the 17th-century. Parker’s exquisite example (fig. 4) is unusual because it also contains a pepper-pot: the shallow cavity for salt is covered over by a push-fit lid, of which the upper part is a pepper-pot with six holes at the top. Like the rosewater basin and ewer, it was donated to Corpus on 1 September 1570, but not delivered until June 1575.
 

@@ -2,8 +2,23 @@
 title: "From roast to raw meat: a cooking process reversed through the conservator’s brush"
 thumbnail: meat.png
 layout: default
+category: meat
 ---
 This substantial canvas of a Dutch pantry has been specially cleaned for Feast & Fast by Victoria Sutcliffe at Cambridge University’s Hamilton Kerr Institute. During her conservation treatment, Vicky discovered that the painting is a rare example of a 17th-century painting not lined at a later date. (Lining, with an additional canvas layer adhered to the reverse, was a common historical restoration technique used to stabilise and reinforce paintings). Removal of the old, discoloured, patchy varnish has greatly improved the readability of the composition, and revealed van Schooten’s initials ‘F.V.S.’ on the stone ledge at the bottom of the canvas. The varnish’s removal has also revealed van Schooten’s bravura in capturing diverse colours and textures, which had become dull and hard to discern. His evident delight in the accurate recording of details tells us a great deal about the sourcing and preparation of food in 17th-century Haarlem.
+
+<figure class="figure col-md-8">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 1:</strong> Floris Gerritsz. van Schooten (1585/88–1656), Kitchen utensils, meat and vegetables, Haarlem, Netherlands, c.1620–30. Oil on canvas. 102.2 x 158.1 cm. Given by Prof. C. Hague, 1820 (96). &copy; The Fitzwilliam Museum, Cambridge. This image shows the painting before conservation.
+  </figcaption>
+</figure>
+
+<figure class="figure col-md-8">
+  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">
+    <strong>Figure 2:</strong> Floris Gerritsz. van Schooten (1585/88–1656), Kitchen utensils, meat and vegetables, Haarlem, Netherlands, c.1620–30. Oil on canvas. 102.2 x 158.1 cm. Given by Prof. C. Hague, 1820 (96). &copy; The Fitzwilliam Museum, Cambridge. This image shows painting detail during conservation.
+  </figcaption>
+</figure>
 
 The painting is filled with various locally sourced produce of the sort that would have been enjoyed in September or October, including pumpkins, cabbages, and apples. While peas were mainly a summer vegetable, late crops were sown in July for autumn harvesting (like the ones shown here) and were then dried to convert them into store cupboard food. Glistening herring, a mainstay of the Dutch economy and diet, await gutting on a pewter plate. Van Schooten has even bothered to record the leg wounds at ankle level on both rabbits, revealing their method of capture in snares. The slab of beef sirloin in the right foreground was always assumed to have been roasted, due to the brownish colour of the meat and the golden colour of the fat. However, the conservator’s brush has revealed a slab of uncooked and completely raw meat, thereby miraculously reversing a cooking process.
 

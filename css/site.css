@@ -38,6 +38,22 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .knives {
+    background-image: url(../images/discover/DP836657.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lobster {
+    background-image: url(../images/layouts/lobsterClaws.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .meat {
+    background-image: url(../images/layouts/P.4961-R_1_201811_amt49_dc1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 }
 
 

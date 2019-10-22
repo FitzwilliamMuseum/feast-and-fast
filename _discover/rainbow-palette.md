@@ -3,6 +3,7 @@ layout: default
 title: "A rainbow palette revealed: Van Son’s Still life with lobster"
 slug: rainbox-palette
 thumbnail: lobster.jpg
+category: lobster
 ---
 This painting was cleaned for Feast & Fast by Molly Hughes-Hallett, under the supervision of Adele Wright, at the University of Cambridge’s Hamilton Kerr Institute. Prior to conservation treatment, the still life had a highly yellowed varnish, which completely obscured the sense of light, depth, and space within the painting. Removal of the varnish has revealed the incredibly vibrant rainbow palette: the bright yellow lemons; the rich orange of the cut-open melon, the peaches and the oranges; the pillar-box red cooked lobster and the deeper red cherries; the purples of the plums and grapes; and the rich diversity of greens from the darker vine-leaves, citrus fruit and plum leaves, to the lighter coloured chestnut husks, grapes, and celery – all set against the dazzling white tablecloth and the cavernous black background. Cleaning has equally re-animated the reflections on the silverware as well as on the ripe cherries and the lobster’s carapace, and the glistening drops of fruit juice on the table cloth. It has also revealed the highly textured skin of the citrus fruits, to give them an enhanced sense of tactility. 
 
