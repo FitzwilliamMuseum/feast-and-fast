@@ -52,13 +52,16 @@
       <div class="mb-3">
           {{ content }}
       </div>
+      {% elsif page.url == '/objects/' %}
+      <div class="mb-3">
+          {{ content }}
+      </div>
       {% else %}
-      <div class="ol-12 shadow-sm p-3 mx-auto mb-3
-     rounded intro-card">
+      <div class="ol-12 shadow-sm p-3 mx-auto mb-3 rounded intro-card">
           {% if page.author %}
           <div class="float-right p-3">
             <img class="align-self-center mr-3 rounded-circle thumb-post"
-               src={{ site.baseurl }}/images/staff/{{ page.author_image }}"
+               src="{{ site.baseurl }}/images/staff/{{ page.author_image }}"
                alt="{{ page.author }}'s profile image" height="150" width="150">
                <h4 class="text-center p-2">{{ page.author }}</h4>
              </div>

@@ -49,6 +49,8 @@ collections:
    events:
       output: true
       permalink: /:collection/:name
+   objects:
+      output: true
 
 timezone: Europe/London
 permalink: pretty
