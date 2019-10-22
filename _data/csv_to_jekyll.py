@@ -24,7 +24,7 @@ for row_index, row in enumerate(datareader):
 	# Othrwise, create a YAML file from the data in this row...
 	else:
 		# Open a new file with filename based on the first column
-		filename = row[0].lower().replace(" county", "").replace(" ", "_") + '.md'
+		filename = row[0].lower().replace(" object", "").replace(" ", "_") + '.md'
 		new_yaml = open(filename, 'w')
 
 		# Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
