@@ -5,7 +5,7 @@ thumbnail: tudor-plate.jpg
 ---
 
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/DSC_9457.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 1:</strong> Matthew Parker’s two-handled cups and cover
     Cover: possibly John Crathorn, London, England, 1531; Cup 1: possibly Lawrence Truechild, London, England, 1555; Cup 2: Unidentified maker, London, England, 1570.
@@ -13,7 +13,7 @@ thumbnail: tudor-plate.jpg
 </figure>
 
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/RosewaterBowl.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 2:</strong> Matthew Parker’s rosewater basin
     Unidentified maker, London, England, 1545. Corpus Christi College
@@ -21,7 +21,7 @@ thumbnail: tudor-plate.jpg
 </figure>
 
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/DSC_9400.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 3:</strong> Matthew Parker’s ewer with hinged cover
     London, England, 1545. Corpus Christi College
@@ -35,7 +35,7 @@ The two ‘ox-eye’ posset cups and lid (fig. 1) were amongst Parker’s last g
 The rosewater basin and ewer (figs 2-3) are late Gothic in style, dating from the reign of Henry VIII. They are the grandest pieces of silver that Parker gave to Corpus Christi; indeed, they are believed to be the earliest ewer and basin of this sort to survive anywhere in the world. They were made when Parker was Master, for his own use, and then gifted to the College on 1 September 1570. However, he retained them for use during his lifetime: they were only handed over to Corpus on 26 June 1575. They were used by diners to wash their hands during grand feasts – especially useful before the introduction of forks, which did not become common in England until the early 17th-century.
 
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/ParkerSalt.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 4:</strong> Matthew Parker’s standing salt and cover
     Attributed to Robert Danbe, London, England, 1562. Corpus Christi College
@@ -49,8 +49,9 @@ The rosewater basin and ewer (figs 2-3) are late Gothic in style, dating from th
     Unidentified maker, London, England, 1569. Corpus Christi College
   </figcaption>
 </figure>
+
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/L1000945.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 6:</strong> Matthew Parker’s tankard with hinged domed cover
     Attributed to Roger Flint I, London, England, 1570. Gonville and Caius College
