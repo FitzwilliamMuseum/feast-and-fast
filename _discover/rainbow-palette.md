@@ -20,8 +20,14 @@ This painting was cleaned for Feast & Fast by Molly Hughes-Hallett, under the su
   </figcaption>
 </figure>
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1453" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=eb76a4ec-f4ae-11e9-b9b8-0edaf8f81e27"></iframe>
-
+<figure class="col-md-12">
+  <div class="embed-responsive embed-responsive-4by3">
+    <iframe  class="juxtapose embed-responsive-item" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=11a0e94c-f4b0-11e9-b9b8-0edaf8f81e27"></iframe>
+  </div>
+  <figcaption class="figure-caption">
+    <strong>Figure 3:</strong> oris van Son (1623–67), Still life with a lobster, Antwerp, Belgium, 1660. Oil on canvas. 64.1 x 89.2 cm. C.B. Marlay Bequest, 1912 (M.76). &copy; The Fitzwilliam Museum, Cambridge. This shows a comparison of the two images before and after together.
+  </figcaption>
+</figure>
 While eating seasonally today is often politically or ethically motivated, most diners in 17th-century Europe were constrained by the rhythms of the growing and harvesting seasons. Joris van Son’s vibrant painting is naturalistic in style yet highly unnatural in content, combining foodstuffs that could never actually have been eaten at the same time. It portrays with breath-taking realism summer fruit such as speckled plums, translucent redcurrants, and a gaping melon, together with autumnal harvest produce such as grapes and chestnuts. Similarly, while the lobster – symbol of luxury – was at its best from mid-March to mid-July, the shrimps were at their largest and most succulent only in the autumn. Van Son’s still life also combines local with global: all the fruit was grown locally, except for the citrus fruits, which would probably have been imported from the Mediterranean. Like the lobster, which would have been fished from the coastal waters of the North Sea, oranges and lemons were still a luxury for most northern Europeans.
 
 While most of the food is in perfect condition, the leaves of the cherries have some blight and damage, which may indicate that this luxurious food fantasy was originally intended to be read as a moralising vanitas: a warning against overindulgence and a reminder of the fleeting nature of life. However, the celery with its unnaturally curling leaves had no symbolic meaning at all. It appears to have been included purely to show off the artist’s virtuoso skill, echoing the curling antennae of the lobster directly below. The fact that van Son has placed his signature and date on a sculpted shield hints at the highly constructed and contrived nature of the image, despite its apparent naturalism. It highlights his skill in painterly illusionism – portraying the edible delights of the three-dimensional world on a two-dimensional canvas so convincingly that the viewer cannot help but salivate and desire to devour the food with more than just the eyes.
