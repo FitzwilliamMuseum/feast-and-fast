@@ -9,11 +9,6 @@ title: About the exhibition
 
 Feast & Fast: The Art of Food in Europe, 1500-1800 is the latest interdisciplinary research-led collaboration between Victoria Avery and Melissa Calaresu of Cambridge University, together with the internationally renowned food historian, Ivan Day.
 
-<div class="float-right col-md-2">
-<img src="/images/layouts/sensualVirtual.png" class="rounded text-center"/>
-<p class="text-center"><a href="https://www.fitzmuseum.cam.ac.uk/news/sensualvirtual">Part of our Sensual/Virtual theme</a></p>
-</div>
-
 The exhibition celebrates the production, preparation, and presentation of food, its consumption or rejection, its ideologies and identities. Feast & Fast considers extremes of eating alongside everyday experiencesand demonstrates how contemporary concerns about our relationship with food are not a modern phenomenon. ‘Eating right’ in early modern Europe was as treacherous and complex an issue as making these food choices now.
 
 Nearly 300 objects tell the compelling and complex, local and global, story of food in Cambridge, Britain, and Europe between 1500 and 1800. Many have been unseen in the Museum’s reserves for decades, and Feast & Fast provides the opportunity to research, recontextualise, and return them to the public domain, a number of which have been especially conserved for the exhibition.
@@ -67,3 +62,5 @@ As exhibition curators, Victoria Avery and Melissa Calaresu said:
 <blockquote class="blockquote">
 Food is everywhere in current cultural and political debates. The threat of the devastation of climate change has brought an increasing focus on global food security. Many people are turning to vegetarianism and veganism as a political choice as much as a dietary one, as we rethink our relationship with animals and their treatment in an industrialised world. Food choices are not only determined by political concerns about what we eat but also compounded by the moral anxieties which resonate around diet, self-image, over-consumption, and our bodies. As Feast & Fast demonstrates, many of these contemporary concerns about our relationship with food are not new.
 </blockquote>
+
+![](/images/layouts/SV.png){: .img-fluid rounded }
