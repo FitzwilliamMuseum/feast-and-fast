@@ -24,3 +24,5 @@ To complement Feast & Fast, a flamboyant 4-metre tall pineapple installation
 specially-commissioned from Bompas and Parr - experts in multi-sensory experience
 design - will be displayed on the Museum’s front lawn for the duration of the
 exhibition and illuminated at night.
+
+![](/images/layouts/SV.png){: .img-fluid rounded }
