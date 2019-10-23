@@ -62,8 +62,13 @@
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 rounded intro-card">
           {% if page.collection == 'discover' %}
           <span class="mb-1 mt-1 badge badge-wine float-right p-1">{% include read_time.html %}</span>
-          {% endif %}
           {{ content }}
+          {% elsif page.collection == 'events'%}
+          {% include events.html %}
+          {% else %}
+          {{ content }}
+          {% endif %}
+
       </div>
       {% endif %}
 

@@ -1,58 +1,58 @@
 
-  .parallax {
-    min-height: 600px;
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  .jumbotron{
-    margin-bottom: 0;
-  }
+.parallax {
+  min-height: 600px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.jumbotron{
+  margin-bottom: 0;
+}
 
-  .head {
-    background-image: url(../images/layouts/confection.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .peacock {
-    background-image: url(../images/layouts/peacock.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .crockery {
-    background-image: url(../images/layouts/crockery.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .pavilion {
-    background-image: url(../images/layouts/pavilion.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .box {
-    background-image: url(../images/layouts/box.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .tools {
-    background-image: url(../images/layouts/tools.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .knives {
-    background-image: url(../images/discover/DP836657.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .lobster {
-    background-image: url(../images/layouts/lobsterClaws.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .meat {
-    background-image: url(../images/layouts/P.4961-R_1_201811_amt49_dc1.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+.head {
+  background-image: url(../images/layouts/confection.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.peacock {
+  background-image: url(../images/layouts/peacock.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.crockery {
+  background-image: url(../images/layouts/crockery.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pavilion {
+  background-image: url(../images/layouts/pavilion.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  background-image: url(../images/layouts/box.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tools {
+  background-image: url(../images/layouts/tools.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.knives {
+  background-image: url(../images/discover/DP836657.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lobster {
+  background-image: url(../images/layouts/lobsterClaws.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meat {
+  background-image: url(../images/layouts/P.4961-R_1_201811_amt49_dc1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
 
@@ -80,7 +80,7 @@
     font-size: 2rem;
   }
   /* .jumbotron {
-    display: none;
+  display: none;
   } */
 }
 
@@ -357,18 +357,21 @@ body {
   font-size: 1rem;
 }
 @media screen and (min-width: 400px) {
-.shout {
-  color: white!important;
-  font-family: 'Yrsa', serif;
-  font-size: 10rem;
-  margin-top:4rem;
-}
-.shout-less {
-  color: white!important;
-  font-family: 'Yrsa', serif;
-  font-size: 4rem;
-}
+  .shout {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 10rem;
+    margin-top:4rem;
+  }
+  .shout-less {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 4rem;
+  }
 }
 .bg-black-opacity {
   background-color: rgba(000,0,0,0.7)!important;
+}
+.min-height-250 {
+  min-height: 250px;
 }

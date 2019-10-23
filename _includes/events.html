@@ -1,0 +1,18 @@
+
+<div class="cover-image">
+  <img class="align-self-center mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/events/{{ page.thumbnail }}"
+               alt="{{page.title}}'s profile image" height="150" width="150">
+</div>
+
+<!-- end image block -->
+
+<div class="contents-label">
+  <p class="card-text">{{ page.content }}</p>
+
+  <ul>
+    <li>Time: {{ page.time }}</li>
+    <li>Date: {{ page.date-live | date: "%A %-d of %B, %Y"  }}</li>
+    <li>Cost: {{ page.cost }}</li>
+    <li>Venue: {{ page.venue }}</li>
+  </ul>
+</div>
