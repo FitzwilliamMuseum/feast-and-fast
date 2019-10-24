@@ -17,9 +17,15 @@ Food was, and still is, a powerful source of inspiration for artists who delight
 
 Feast & Fast will reanimate unknown and newly conserved treasures. Some of these are incorporated within three bespoke historically accurate culinary recreations brilliantly conjured up by Ivan Day. Exquisite porcelain, precious silver tableware, and delicate glassware from across Europe, including Britain, will be displayed on three visually stunning table settings, designed to delight the senses and highlight the artfulness of food itself.
 
+<figure class="figure col-md-12">
+
 ![](/images/layouts/sugar.jpg){:.img-fluid .p-2 .mb-2}
 
-1: A sugar banquet for an English Renaissance wedding. Some of the most magnificent meals ever consumed in England were ‘banquets’ served at the end of elite feasts, often in specially designed banqueting houses, consisting entirely of glittering displays of sugar in different forms - sweetmeats, preserves, ornamental marzipans, sugar sculptures, and edible jokes such as a trompe l’oeil gloves, playing cards, and even a plate of bacon and eggs, all made out of sugar. Appropriately, given the Fitzwilliam Museum’s location in the heart of East Anglia, our edible sugar architectural centrepiece is a miniature version of the banqueting house at Melford Hall in Long Melford, Suffolk.
+<figcaption class="figure-caption">A sugar banquet for an English Renaissance wedding. Image by Amy Jugg/ Katie Young</figcaption>
+
+</figure>
+
+Some of the most magnificent meals ever consumed in England were ‘banquets’ served at the end of elite feasts, often in specially designed banqueting houses, consisting entirely of glittering displays of sugar in different forms - sweetmeats, preserves, ornamental marzipans, sugar sculptures, and edible jokes such as a trompe l’oeil gloves, playing cards, and even a plate of bacon and eggs, all made out of sugar. Appropriately, given the Fitzwilliam Museum’s location in the heart of East Anglia, our edible sugar architectural centrepiece is a miniature version of the banqueting house at Melford Hall in Long Melford, Suffolk.
 
 ![](/images/layouts/confection_shop.jpg){:.img-fluid .p-2 .mb-2}  
 
