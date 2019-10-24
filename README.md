@@ -16,7 +16,9 @@ contains data pulled from AdLib, curatorial interpretation, video and audio cont
 
 Copyright the University of Cambridge unless noted otherwise.
 
-Website by [@portableant](https://github.com/portableant) and [@choekyi](https://github.com/choekyi)
+Website by [@portableant](https://github.com/portableant)
+
+Images by Michael Jones, Andrew Norman, Amy Jugg and Katie Young of the Fitzwilliam Museum. 
 
 CSS framework: http://daemonite.github.io/material/
 
