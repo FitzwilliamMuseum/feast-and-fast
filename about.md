@@ -19,7 +19,7 @@ Feast & Fast will reanimate unknown and newly conserved treasures. Some of these
 
 <figure class="figure col-md-12">
 
-![](/images/layouts/sugar.jpg){:.img-fluid .p-2 .mb-2}
+<img src="/images/layouts/sugar.jpg" class="figure-img img-fluid rounded" alt="A view of the sugar banquet.">
 
 <figcaption class="figure-caption">A sugar banquet for an English Renaissance wedding. Image by Amy Jugg/ Katie Young</figcaption>
 
@@ -27,15 +27,28 @@ Feast & Fast will reanimate unknown and newly conserved treasures. Some of these
 
 Some of the most magnificent meals ever consumed in England were ‘banquets’ served at the end of elite feasts, often in specially designed banqueting houses, consisting entirely of glittering displays of sugar in different forms - sweetmeats, preserves, ornamental marzipans, sugar sculptures, and edible jokes such as a trompe l’oeil gloves, playing cards, and even a plate of bacon and eggs, all made out of sugar. Appropriately, given the Fitzwilliam Museum’s location in the heart of East Anglia, our edible sugar architectural centrepiece is a miniature version of the banqueting house at Melford Hall in Long Melford, Suffolk.
 
-![](/images/layouts/confection_shop.jpg){:.img-fluid .p-2 .mb-2}  
+
+<figure class="figure col-md-12">
+
+<img src="/images/layouts/confection_shop.jpg" class="figure-img img-fluid rounded" alt="A view of an English 18th-century confectioner’s shop window and workspace the sugar banquet.">
+
+<figcaption class="figure-caption">An English 18th-century confectioner’s shop window and workspace. Image by Amy Jugg/ Katie Young</figcaption>
+
+</figure>  
 
 
-2: An English 18th-century confectioner’s shop window and workspace. Proprietors of confectionery shops mainly created luxury provisions for the wealthy. London-based confectioners produced an extraordinary array of sweet goods, including exotic ices and a vast range of Italian and French delicacies to dress out the elaborate dessert tables of the rich. Many confectionery shops were run like cafés where customers could drop in and enjoy a syllabub, some fresh strawberries, or a paper cone of sugar plums at the counter, but they also sold or hired out porcelain tableware and glassware to create ‘furnished entertainments’. The front of this recreation shows a typical confectionery shop window, with sweet treats, alongside upmarket glass and porcelain, while the back of the display recreates the table of a busy confectioner, full of the typical tools, moulds, and books of the trade.
+Proprietors of confectionery shops mainly created luxury provisions for the wealthy. London-based confectioners produced an extraordinary array of sweet goods, including exotic ices and a vast range of Italian and French delicacies to dress out the elaborate dessert tables of the rich. Many confectionery shops were run like cafés where customers could drop in and enjoy a syllabub, some fresh strawberries, or a paper cone of sugar plums at the counter, but they also sold or hired out porcelain tableware and glassware to create ‘furnished entertainments’. The front of this recreation shows a typical confectionery shop window, with sweet treats, alongside upmarket glass and porcelain, while the back of the display recreates the table of a busy confectioner, full of the typical tools, moulds, and books of the trade.
 
 
-![](/images/layouts/baroque.jpg){:.img-fluid .p-2 .mb-2}  
+<figure class="figure col-md-12">
 
-3: A Baroque feasting table. Baroque depictions of food focused on abundance, temptation and carnality as seen in van Son’s luxurious Still-life with a Lobster and Frans Francken the Younger’s orgiastic Worship of the Golden Calf, both in the Fitz’s collection and recently conserved for Feast & Fast. Elite dining at this period was an opportunity for a host to display wealth, status and power with the variety and rareness of the dishes, as well as the quality of tableware used. Tables displayed a plethora of game, fish, fruit, and vegetables, including elaborate pies, often gilded, and crowned with high status hunted birds such as swans, pheasants, partridges, and peacocks. While perhaps incredible - and indeed, offensive -  to modern eyes, all of these birds and beasts were available for consumption by wealthy diners across early modern Europe, as made evident in Frans Snyders gigantic workshop copy of The Fowl Market, also especially conserved for this show.
+<img src="/images/layouts/baroque.jpg" class="figure-img img-fluid rounded" alt="A view of a Baroque feasting table.">
+
+<figcaption class="figure-caption">A Baroque feasting table. Image by Amy Jugg/ Katie Young</figcaption>
+
+</figure>
+
+Baroque depictions of food focused on abundance, temptation and carnality as seen in van Son’s luxurious Still-life with a Lobster and Frans Francken the Younger’s orgiastic Worship of the Golden Calf, both in the Fitz’s collection and recently conserved for Feast & Fast. Elite dining at this period was an opportunity for a host to display wealth, status and power with the variety and rareness of the dishes, as well as the quality of tableware used. Tables displayed a plethora of game, fish, fruit, and vegetables, including elaborate pies, often gilded, and crowned with high status hunted birds such as swans, pheasants, partridges, and peacocks. While perhaps incredible - and indeed, offensive -  to modern eyes, all of these birds and beasts were available for consumption by wealthy diners across early modern Europe, as made evident in Frans Snyders gigantic workshop copy of The Fowl Market, also especially conserved for this show.
 
 
 
@@ -46,7 +59,15 @@ By focusing on food in the early modern period, Feast & Fast will, I hope, stimu
 
 Rarely seen treasures drawn from collections across Cambridge will be on display, including significant loans from the University’s Library, five Colleges, Wisbech & Fenland Museum and Holkham Hall. An impressive selection of the most important early modern English cookery books will be brought together, and a spectacular assemblage of Cambridge Renaissance silver tableware will be reunited for the first time in 500 years from two rival Colleges, Corpus Christi and Gonville and Caius.
 
-![](/images/layouts/pineapple.jpg){:.img-fluid .p-2 .mb-2}  
+
+<figure class="figure col-md-12">
+
+<img src="/images/layouts/pineapple.jpg" class="figure-img img-fluid rounded" alt="The pineapple is an essential motif of the exhibition.">
+
+<figcaption class="figure-caption">The pineapple is an essential motif of the exhibition. Image by Amy Jugg/ Katie Young</figcaption>
+
+</figure>
+
 
 
 The pineapple is an essential motif of the exhibition. Its production and culinary uses as well as its artistic and cultural resonances are explored in a dedicated display. It was an emblem of power, hospitality, and innovation and continues to attract interest from plant scientists, historians, and artists. Its ‘discovery’ by European colonisers in the late fifteenth century and its trajectory around the world, from an object of luxury and horticultural innovation in the early modern period to an everyday food in a can and emblem of the fair-trade movement today, is one of the central stories of early modern globalisation. Its unique taste inspired monarchs and popes to spend fortunes cultivating its fruit and, by the eighteenth century, it had become the symbol of luxury and a staple of high-end confectioners’ shops.
