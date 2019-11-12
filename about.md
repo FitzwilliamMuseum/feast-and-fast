@@ -80,14 +80,10 @@ This botanical feat was widely publicised by Decker’s friend, Richard Bradley,
 
 
 
-
-
-
-
 As exhibition curators, Victoria Avery and Melissa Calaresu said:
 
 <blockquote class="blockquote">
 Food is everywhere in current cultural and political debates. The threat of the devastation of climate change has brought an increasing focus on global food security. Many people are turning to vegetarianism and veganism as a political choice as much as a dietary one, as we rethink our relationship with animals and their treatment in an industrialised world. Food choices are not only determined by political concerns about what we eat but also compounded by the moral anxieties which resonate around diet, self-image, over-consumption, and our bodies. As Feast & Fast demonstrates, many of these contemporary concerns about our relationship with food are not new.
 </blockquote>
 
-![](/images/layouts/SV.png){: .img-fluid rounded }
+!["Sensual/Virtual Banner Advert"](/images/layouts/SV.png){: .img-fluid rounded }
