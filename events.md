@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Events and public wonder
+title: Events
 category: crockery
 ---
 
