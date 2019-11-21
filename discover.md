@@ -19,7 +19,7 @@ category: peacock
 
       <div class="cover-image ">
         <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/discover/{{ author.thumbnail }}"
-                     alt="{{page.title}}'s profile image" height="150" width="150">
+                     alt="{{page.title}}'s profile image" height="150" width="150" loading="lazy">
       </div>
 
       <!-- end image block -->
