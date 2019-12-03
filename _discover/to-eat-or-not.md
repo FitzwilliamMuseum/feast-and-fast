@@ -19,7 +19,7 @@ For most people, however, food on ‘thin’ days, as opposed to ‘fat’ days 
 Finding dairy and meat alternatives was essential to meet the culinary requirements of ‘thin days’ and make them tolerable. Recipes books in Protestant and Catholic countries provided elaborate and multi-course vegetarian menus for ‘thin’ days, many of which did not contain any dairy or animal products. In The Modern Steward of 1694, the Neapolitan Antonio Latini described a lunch menu for some aristocratic patrons, which included a macaroni dish prepared with almond and pine nut milk, followed by a swordfish dish ingeniously made to look like ‘chops’. A generation earlier, the English Catholic cook, Robert May, published ‘A bill Fare formerly used in Fasting days, in Lent’ in his Accomplisht Cook of 1660 (fig. 2). The lack of meat was more than made up for by the sheer quantity and different types of fish and seafood (including oysters, eels, pike, carp, lobster, ling, haddock, sole, cod, and scallops) as well as the astonishing variety of ways to prepare them.
 
 <figure class="figure col-md-8">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/robertmay.jpg" class="figure-img img-fluid rounded" alt="Robert May, The Accomplisht Cook ">
   <figcaption class="figure-caption">
     <strong>Figure 2:</strong> Robert May, The Accomplisht Cook (London, 1660).
   </figcaption>
