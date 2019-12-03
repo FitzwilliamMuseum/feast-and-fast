@@ -43,7 +43,7 @@ The rosewater basin and ewer (figs 2-3) are late Gothic in style, dating from th
 </figure>
 
 <figure class="figure col-md-12">
-  <img src="/images/discover/placeholder.svg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="/images/discover/Great.jpg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
   <figcaption class="figure-caption">
     <strong>Figure 5:</strong> Matthew Parker’s great standing cup and cover with ‘man-and-staff’ finial
     Unidentified maker, London, England, 1569. Corpus Christi College
