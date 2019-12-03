@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and, equally, what we don’t eat. When, where, why, how and with whom we eat
   are crucial to our identity. Feast & Fast presents novel approaches to
   understanding the history and culture of food and eating.
-logo: "https://feast-and-fast.fitzmuseum.cam.ac.uk/images/logos/FitzLogo.png"  
+logo: "https://feast-and-fast.fitzmuseum.cam.ac.uk/images/logos/FitzLogo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://feast-and-fast.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fitzmuseum_uk
@@ -53,6 +53,10 @@ collections:
       permalink: /:collection/:name
    objects:
       output: true
+feed:
+  collections:
+    - events
+    - discover
 
 timezone: Europe/London
 permalink: pretty
