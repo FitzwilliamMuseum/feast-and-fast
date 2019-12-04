@@ -35,6 +35,7 @@ content_license: CC-BY
 hashtag: "#feastfast"
 paginate: 30
 paginate_path: "/labels/page/:num/"
+sort_field: "object"
 # Build settings
 markdown: kramdown
 plugins:
