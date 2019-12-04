@@ -33,10 +33,10 @@ rights: AGPL
 google_analytics: UA-3319190-17
 content_license: CC-BY
 hashtag: "#feastfast"
-
+paginate: 30
+paginate_path: "/labels/page/:num/"
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -53,10 +53,15 @@ collections:
       permalink: /:collection/:name
    objects:
       output: true
+      permalink: /:collection/:name
+   posts:
+      output: true
+      permalink: /labels/:slug
 feed:
   collections:
     - events
     - discover
+    - posts
 
 timezone: Europe/London
 permalink: pretty
