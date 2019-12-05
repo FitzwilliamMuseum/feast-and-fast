@@ -9,7 +9,7 @@
     <!-- end image block -->
 
     <div class="contents-label mb-3 h-100">
-    <h2> {{ page.title }}</h2>
+    <h2>{% if page.object != blank %}{{ page.object }}{% endif %} {{ page.title }}</h2>
     <ul>
       {% if page.exhibition_number != blank %}
         <li>Exhibition number: {{ page.exhibition_number }}</li>
