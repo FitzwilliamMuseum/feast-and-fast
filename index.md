@@ -2,7 +2,10 @@
 layout: default
 ---
 
+!["Pineapple on glassware stand"](/images/layouts/ffpaint.jpg){: .img-fluid .float-right .rounded .p2}  
+
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 26 April 2020</h3>
+<h4 class="text-center font-weight-bold">Free entry</h4>
 
 >‘Remarkable and Imaginative’   
 [The Spectator](https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed/)  
@@ -10,7 +13,7 @@ layout: default
 [The Telegraph](https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/)
 {: .blockquote  .text-center }
 
-!["Pineapple on glassware stand"](/images/layouts/pineapple_small.jpg){: .img-fluid .float-right .rounded .p2}  
+
 
 Food defines us as individuals, communities, and nations: we are what we eat and,
 equally, what we don’t eat. When, where, why, how and with whom we eat are crucial to our identity. Feast & Fast presents novel approaches to understanding the history and culture of food and eating.
