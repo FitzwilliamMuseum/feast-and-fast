@@ -3,7 +3,7 @@ layout: default
 title: Events
 category: crockery
 ---
-
+{% assign today_date = 'now' | date: '%s' %}
 {% assign rows = site.events.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
@@ -29,6 +29,12 @@ category: crockery
 
     <div class="contents-label">
       <p class="card-text">{{ event.content | strip_html | truncatewords: 20}}</p>
+      {% assign event_date = event.date-live | date: '%s' %}
+      {% if event_date < today_date %}
+      <div class="ribbon-wrapper">
+        <div class="ribbon red">Expired</div>
+      </div>
+      {% endif %}
 
       <ul>
         <li>Time: {{ event.time }}</li>
