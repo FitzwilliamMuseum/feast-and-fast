@@ -16,9 +16,9 @@ title: Exhibition labels
     <div class="container h-100">
 
       <!-- start image block -->
-      {% if post.thumbnail %}
+      {% if post.file %}
       <div class="cover-image ">
-        <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/labels/{{ post.image }}"
+        <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/labels/thumbnails/{{ post.file }}"
                      alt="{{page.title}}'s project image" height="150" width="150">
       </div>
       {% endif %}
