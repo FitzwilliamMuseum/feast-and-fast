@@ -7,13 +7,12 @@ layout: default
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 26 April 2020</h3>
 <h4 class="text-center font-weight-bold">Free entry</h4>
 
->‘Remarkable and Imaginative’   
-[The Spectator](https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed/)  
-‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘  
-[The Telegraph](https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/)
-
-'The exhibition is a delight:erudite and joyful, it sparks endless reflection..' [TLS](https://www.the-tls.co.uk/articles/all-things-nice/)
-{: .blockquote  .text-center }
+<blockquote class="blockquote text-center">
+  ‘Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed/>The Spectator</a><br/>
+  ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘<br />    
+  <a href="https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/">The Telegraph</a><br />
+  'The exhibition is a delight:erudite and joyful, it sparks endless reflection..'<a href="https://www.the-tls.co.uk/articles/all-things-nice/">TLS</a>
+</blockquote>
 
 
 
