@@ -8,10 +8,10 @@ layout: default
 <h4 class="text-center font-weight-bold">Free entry</h4>
 
 <blockquote class="blockquote text-center">
-  ‘Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed/>The Spectator</a><br/>
-  ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘<br />    
+  <p>Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed"> The Spectator</a><br/>
+  ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘     
   <a href="https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/">The Telegraph</a><br />
-  'The exhibition is a delight:erudite and joyful, it sparks endless reflection..'<a href="https://www.the-tls.co.uk/articles/all-things-nice/">TLS</a>
+  'The exhibition is a delight:erudite and joyful, it sparks endless reflection..' <a href="https://www.the-tls.co.uk/articles/all-things-nice/">TLS</a></p>
 </blockquote>
 
 
