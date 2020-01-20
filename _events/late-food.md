@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "LATE: Food, Faith and Wellbeing"
-date-live: 2020-04-22
+date-live: 2020-01-30
 time: 17:00 to 21:00
 cost: Free
 venue: Museum wide
