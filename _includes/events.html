@@ -19,7 +19,7 @@
     <ul>
       <li class="event-time">Time: {{ page.time }}</li>
       <li class="event-date" property="startDate" content="{{ page.date-live }}">Date: {{ page.date-live | date: "%A %-d of %B, %Y"  }}</li>
-      <li>Cost: <div class="event-price" property="price">{{ page.cost }}</div></li>
+      <li>Cost: <span class="event-price" property="price">{{ page.cost }}</span></li>
       <li>Venue: {{ page.venue }}</li>
     </ul>
   </div>
