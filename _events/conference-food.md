@@ -3,8 +3,8 @@ layout: default
 title: "CONFERENCE Power, Promise, Politics: The pineapple from Columbus to Del Monte"
 date-live: 2020-02-20
 time: 09:00 - 17:00 (20th) and 09:30 - 14:30 (21st)
-cost:  £40 (£20 concessions) for both days, or £20 (£10 concessions) for one day
-venue: Day 1: Fitzwilliam Museum and Sainsbury Lab Auditorium (Botanic Garden); Day 2: Bateman Auditorium (Gonville and Caius)
+cost:  "£40 (£20 concessions) for both days, or £20 (£10 concessions) for one day"
+venue: "Day 1: Fitzwilliam Museum and Sainsbury Lab Auditorium (Botanic Garden); Day 2: Bateman Auditorium (Gonville and Caius)"
 thumbnail: 27Nov.jpg
 slug: food-late
 ---
