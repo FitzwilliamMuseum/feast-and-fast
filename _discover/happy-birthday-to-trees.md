@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to Trees: The festival of Tu B’Shevat"
 layout: default
-thumbnail: ""
+thumbnail: trees/figure1.jpg
 ---
 
 The Jewish holiday of Tu B’Shevat (sometimes spelled Tu Bishvat) occurs on the fifteenth day of the Hebrew month of Shevat, which this year falls on February 10.  It marks the beginning of a ‘new year’ or ‘birthday’ for trees, as they emerge from their winter sleep and start another fruit-bearing cycle.  Traditionally celebrated by eating lots of fruit and holding large feasts, in ancient times Tu B’Shevat indicated the date by which Jewish farmers needed to calculate the year’s tithes (or offerings) of fruit they should bring to the Temple in Jerusalem.  This had to be fourth-year fruit, as the Torah (the first five books of the Hebrew Bible) forbids Jews to eat the fruit of new trees for three years after they are planted (Leviticus 19.23-25). 
