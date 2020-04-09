@@ -2,7 +2,7 @@
 title: "Bittersweet: The Passover Feast"
 layout: default
 slug: bittersweet-passover-feast
-thumbnail: ""
+thumbnail: "passover/Figure1.jpg"
 ---
 In Judaism, eating is not simply a mundane activity but a means of reconnecting with community, history, and tradition.  Nowhere is this more evident than the seven-day (eight outside Israel) holiday of Passover (or Pesach), also called the Festival of Matzah (Unleavened Bread), beginning this year on April 8 and ending on April 16.  By its very name, the Festival of Matzah clearly places food at the centre of the ritual menu.  Commemorating the enslavement of the Jews in Egypt and their eventual liberation, Passover is one of the most celebrated of all Jewish holidays, and its association with food may explain part of that popularity!  
 
