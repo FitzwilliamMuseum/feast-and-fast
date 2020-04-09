@@ -23,7 +23,7 @@ The challenge of celebrating Passover in the face of COVID-19 underscores the fa
 Julia Biggs
 
 <figure class="figure col-md-12">
-  <img src="/images/passover/Figure1.jpg" class="figure-img img-fluid rounded" alt="">
+  <img src="{{ site.url }}/images/passover/Figure1.jpg" class="figure-img img-fluid rounded" alt="">
   <figcaption class="figure-caption">
     <strong>Figure 1:</strong> Floris Gerritsz. van Schooten (1585/88–1656), Kitchen utensils, meat and vegetables (detail), Haarlem, Netherlands, c.1620–30. Oil on canvas. 102.2 x 158.1 cm. Given by Prof. C. Hague, 1820 (96).  Conserved by Victoria Sutcliffe at the Hamilton Kerr Institute. © The Fitzwilliam Museum, Cambridge.
   </figcaption>
@@ -31,14 +31,14 @@ Julia Biggs
 
 
 <figure class="figure col-md-12">
-<img src="/images/passover/Figure2.jpg" class="figure-img img-fluid rounded" alt="">
+<img src="{{ site.url }}/images/passover/Figure2.jpg" class="figure-img img-fluid rounded" alt="">
 <figcaption class="figure-caption">
   <strong>Figure 2:</strong> Cat seated with a mouse in its paw, Bow Porcelain Manufactory, England, c. 1753-8.  Soft-paste porcelain painted overglaze in enamels. 8.1 x 5 cm.  Dr J.W.L. Glaisher Bequest (C.3055-1928). © The Fitzwilliam Museum, Cambridge.
 </figcaption>
 </figure>
 
 <figure class="figure col-md-12">
-<img src="/images/passover/Figure3.jpg" class="figure-img img-fluid rounded" alt="">
+<img src="{{ site.url }}/images/passover/Figure3.jpg" class="figure-img img-fluid rounded" alt="">
 <figcaption class="figure-caption">
   <strong>Figure 3:</strong> Joris van Son (1623–67), Still life with a lobster (detail), Antwerp, Belgium, 1660. Oil on canvas. 64.1 x 89.2 cm. C.B. Marlay Bequest, 1912 (M.76). © The Fitzwilliam Museum, Cambridge.
 </figcaption>
