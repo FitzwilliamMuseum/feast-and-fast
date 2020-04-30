@@ -84,13 +84,15 @@ After storing the ice cream mould and salver overnight in the Museum café’s f
 
 Here is a photo record and instructions of how we did it. (If we ever do this again, we would avoid doing it on a scorching hot day in mid-June!)
 
+Step 1: vigorously mix salt and ice into the sorbet to stop it from melting so quickly once solidified.
+
 <figure class="col-md-12">
   <div >
     <img class="img-fluid" src="/images/discover/pineapple/IMG_5004.jpg"/>
   </div>
 </figure>
 
-Step 1: vigorously mix salt and ice into the sorbet to stop it from melting so quickly once solidified.
+Step 2: carefully spoon the ‘pineapple ice cream’ into all three sections of the open mould
 
 <figure class="col-md-12">
   <div >
@@ -104,7 +106,9 @@ Step 1: vigorously mix salt and ice into the sorbet to stop it from melting so q
   </div>
 </figure>
 
-Step 2: carefully spoon the ‘pineapple ice cream’ into all three sections of the open mould
+
+
+Step 3: carry on until the mould is completely full
 
 <figure class="col-md-12">
   <div >
@@ -112,7 +116,10 @@ Step 2: carefully spoon the ‘pineapple ice cream’ into all three sections of
   </div>
 </figure>
 
-Step 3: carry on until the mould is completely full
+Step 4: carefully close the mould and put it into the freezer to solidify overnight
+
+
+Step 5: next morning, take a fresh pineapple and carefully saw its crown of leaves off
 
 <figure class="col-md-12">
   <div >
@@ -120,7 +127,7 @@ Step 3: carry on until the mould is completely full
   </div>
 </figure>
 
-Step 4: carefully close the mould and put it into the freezer to solidify overnight
+
 
 <figure class="col-md-12">
   <div >
@@ -128,13 +135,15 @@ Step 4: carefully close the mould and put it into the freezer to solidify overni
   </div>
 </figure>
 
+Step 6: take 3 toothpicks and carefully push them halfway into the stump of the crown  
+
 <figure class="col-md-12">
   <div >
     <img class="img-fluid" src="/images/discover/pineapple/IMG_5159.jpg"/>
   </div>
 </figure>
 
-Step 5: next morning, take a fresh pineapple and carefully saw its crown of leaves off
+
 
 
 <figure class="col-md-12">
@@ -143,9 +152,9 @@ Step 5: next morning, take a fresh pineapple and carefully saw its crown of leav
   </div>
 </figure>
 
+Step 7: retrieve the frozen ice cream mould and glass salver from the freezer and open the mould, using a teacloth to protect your hands from ice-burn!
 
 
-Step 6: take 3 toothpicks and carefully push them halfway into the stump of the crown  
 
 
 
@@ -167,8 +176,8 @@ Step 6: take 3 toothpicks and carefully push them halfway into the stump of the 
   </div>
 </figure>
 
-Step 7: retrieve the frozen ice cream mould and glass salver from the freezer and open the mould, using a teacloth to protect your hands from ice-burn!
 
+Step 8: carefully saw a small slice off the top of your ice cream so that it’s flat
 
 <figure class="col-md-12">
   <div >
@@ -177,8 +186,9 @@ Step 7: retrieve the frozen ice cream mould and glass salver from the freezer an
 </figure>
 
 
-Step 8: carefully saw a small slice off the top of your ice cream so that it’s flat
 
+
+Step 9: quickly place your ice cream centrally on the frozen salver, and carefully push the crown on top, making sure the ends of the toothpicks engage with the ice cream
 
 <figure class="col-md-12">
   <div >
@@ -186,7 +196,7 @@ Step 8: carefully saw a small slice off the top of your ice cream so that it’s
   </div>
 </figure>
 
-Step 9: quickly place your ice cream centrally on the frozen salver, and carefully push the crown on top, making sure the ends of the toothpicks engage with the ice cream
+Step 10: run the ice cream and salver into the photography studio without dropping it, again using the teacloth to protect your hands from ice burn and carefully place on the table
 
 <figure class="col-md-12">
   <div >
@@ -200,8 +210,8 @@ Step 9: quickly place your ice cream centrally on the frozen salver, and careful
   </div>
 </figure>
 
-Step 10: run the ice cream and salver into the photography studio without dropping it, again using the teacloth to protect your hands from ice burn and carefully place on the table
 
+Step 11: Let the photographer get on with her task before the ice cream melts!
 
 <figure class="col-md-12">
   <div >
@@ -209,7 +219,7 @@ Step 10: run the ice cream and salver into the photography studio without droppi
   </div>
 </figure>
 
-Step 11: Let the photographer get on with her task before the ice cream melts!
+Step 12: rescue the melting pineapple before it runs everywhere and makes a huge mess, and let the photographer have her rightful reward!
 
 <figure class="col-md-12">
   <div >
@@ -223,7 +233,7 @@ Step 11: Let the photographer get on with her task before the ice cream melts!
   </div>
 </figure>
 
-Step 12: rescue the melting pineapple before it runs everywhere and makes a huge mess, and let the photographer have her rightful reward!
+Through her skill and expertise, Katie Young, one of the Museum’s superb in-house photographers, was able to capture some wonderful images of the pineapple ice cream alone, and also with the 18th-century equipment that was typically used to make it by professional confectioners. These were used in the exhibition catalogue, on the website and for publicity.
 
 <figure class="col-md-12">
   <div >
@@ -231,7 +241,7 @@ Step 12: rescue the melting pineapple before it runs everywhere and makes a huge
   </div>
 </figure>
 
-Through her skill and expertise, Katie Young, one of the Museum’s superb in-house photographers, was able to capture some wonderful images of the pineapple ice cream alone, and also with the 18th-century equipment that was typically used to make it by professional confectioners. These were used in the exhibition catalogue, on the website and for publicity.
+
 
 
 And that’s the end of my story!
