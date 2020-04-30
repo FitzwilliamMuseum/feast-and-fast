@@ -8,9 +8,6 @@ Confectionery shops in 18th-century England and Europe were a far remove from mo
 
 <figure>
   <img src="/images/discover/ice-cream/confectioners.jpg" class="img-fluid" />
-</figure>
-
-<figure>
   <img src="/images/discover/ice-cream/gillray.jpg" class="img-fluid" />
 </figure>
 
