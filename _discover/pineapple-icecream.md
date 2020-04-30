@@ -50,19 +50,21 @@ As far as Ivan knows, the earliest published recipe for pineapple ice cream is i
 In 1770, recipes for both pineapple water ice (‘Anana, or pine apple ice’, pp. 84-85) and pineapple ice cream (‘Anana or pine apple cream ices’, p. 93) were published in English in The Court and Country Confectioner (London, 1770). The first edition of this highly influential book on the subject of confectionery was launched anonymously, but in a later edition of 1772, the author is identified on the title page as _‘Mr. Borella, now head confectioner to the Spanish Ambassador in England’._
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-md-6">
     <figure>
       <img src="/images/discover/ice-cream/5.jpg" class="img-fluid" alt="Title page for the confectionary recipe book"/>
       <figcaption class="figure-caption">Title page for the confectionary recipe book.</figcaption>
     </figure>
   </div>  
-  <div class="col-md-4">
+  <div class="col-md-6">
     <figure>
       <img src="/images/discover/ice-cream/6.jpg" class="img-fluid" alt="Recipe for Anana or pineapple ice cream"/>
       <figcaption class="figure-caption">Recipe for Anana or pineapple ice cream</figcaption>
     </figure>
   </div>
-  <div class="col-md-4">
+</div>
+<div class="row">
+  <div class="col-md-12">
     <figure>
       <img src="/images/discover/ice-cream/7.jpg" class="img-fluid" alt="Recipe for Anana or pineapple ice cream"/>
       <figcaption class="figure-caption">Recipe for Anana or pineapple ice cream</figcaption>
