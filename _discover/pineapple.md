@@ -51,8 +51,8 @@ Ivan generously offered to let us use his late 18th-century hinged tripartite pe
 
 <figure class="col-md-12">
     <img class="img-fluid" src="/images/discover/pineapple/IMG_0347.jpg"
-    alt="early 18th-century glass salver"/>
-    <figcaption class="figure-caption">Early 18th-century glass salver</figcaption>
+    alt="Late 18th-century mould closed"/>
+    <figcaption class="figure-caption">Late 18th-century mould closed</figcaption>
 </figure>
 
 Being very short of time, we sadly couldn’t make any pineapple ice cream ourselves, so on Ivan’s advice I bought some mango sorbet instead, as it’s similar in colour. I also got some salt, ice cubes, cocktail sticks, and a fresh pineapple with a good-looking crown of leaves.
@@ -86,16 +86,16 @@ Step 2: carefully spoon the ‘pineapple ice cream’ into all three sections of
 </figure>
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5008.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5008.jpg" alt="Spooning pineapple ice cream"/>
+  <figcaption class="figure-caption">Spooning pineapple ice cream</figcaption>
 </figure>
 
 
 Step 3: carry on until the mould is completely full
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5010.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5010.jpg" alt="Carry on filling the mould until nearly full"/>
+  <figcaption class="figure-caption">Carry on filling the mould until nearly full</figcaption>
 </figure>
 
 Step 4: carefully close the mould and put it into the freezer to solidify overnight
@@ -103,90 +103,88 @@ Step 4: carefully close the mould and put it into the freezer to solidify overni
 Step 5: next morning, take a fresh pineapple and carefully saw its crown of leaves off
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5154.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5154.jpg" alt="Saw off the crown of leaves"/>
+  <figcaption class="figure-caption">Saw off the crown of leaves</figcaption>
 </figure>
 
-
-
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5155.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5155.jpg" alt="Saw off the crown of leaves"/>
+  <figcaption class="figure-caption">Saw off the crown of leaves</figcaption>
 </figure>
 
 Step 6: take 3 toothpicks and carefully push them halfway into the stump of the crown  
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5159.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5159.jpg"n alt="take 3 toothpicks and carefully push them halfway"/>
+  <figcaption class="figure-caption">Take 3 toothpicks and carefully push them halfway</figcaption>
 </figure>
 
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5161.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5161.jpg" alt="Take 3 toothpicks and carefully push them halfway"/>
+  <figcaption class="figure-caption">Take 3 toothpicks and carefully push them halfway</figcaption>
 </figure>
 
 Step 7: retrieve the frozen ice cream mould and glass salver from the freezer and open the mould, using a teacloth to protect your hands from ice-burn!
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5163.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5163.jpg" alt="retrieve the frozen ice cream mould"/>
+  <figcaption class="figure-caption">Retrieve the frozen ice cream mould</figcaption>
 </figure>
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5164.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5164.jpg" alt="Retrieve the frozen ice cream mould"/>
+  <figcaption class="figure-caption">Retrieve the frozen ice cream mould</figcaption>
 </figure>
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5165.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Retrieve the frozen ice cream mould</figcaption>
 </figure>
 
 Step 8: carefully saw a small slice off the top of your ice cream so that it’s flat
 
 <figure class="col-md-12">
-  <img class="img-fluid" src="/images/discover/pineapple/IMG_5166.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <img class="img-fluid" src="/images/discover/pineapple/IMG_5166.jpg" alt="saw a small slice off the top of your ice cream "/>
+  <figcaption class="figure-caption">Saw a small slice off the top of your ice cream </figcaption>
 </figure>
 
 Step 9: quickly place your ice cream centrally on the frozen salver, and carefully push the crown on top, making sure the ends of the toothpicks engage with the ice cream
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5170.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Place pineapple ice cream in centre of salver</figcaption>
 </figure>
 
 Step 10: run the ice cream and salver into the photography studio without dropping it, again using the teacloth to protect your hands from ice burn and carefully place on the table
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5171.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Quickly take the ice cream to the photography shoot</figcaption>
 </figure>
 
 <figure class="col-md-12">
     <img class="img-fluid" src="/images/discover/pineapple/IMG_5173.jpg"/>
-    <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+    <figcaption class="figure-caption">Quickly take the ice cream to the photography shoot</figcaption>
   </figure>
 
 Step 11: Let the photographer get on with her task before the ice cream melts!
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5177.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Katie Young taking photographs</figcaption>
 </figure>
 
 Step 12: rescue the melting pineapple before it runs everywhere and makes a huge mess, and let the photographer have her rightful reward!
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5182.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Rescue the dish!</figcaption>
 </figure>
 
 <figure class="col-md-12">
   <img class="img-fluid" src="/images/discover/pineapple/IMG_5183.jpg"/>
-  <figcaption class="figure-caption">Pineapple lit up outside the museumt</figcaption>
+  <figcaption class="figure-caption">Katie enjoying the ice cream</figcaption>
 </figure>
 
 Through her skill and expertise, Katie Young, one of the Museum’s superb in-house photographers, was able to capture some wonderful images of the pineapple ice cream alone, and also with the 18th-century equipment that was typically used to make it by professional confectioners. These were used in the exhibition catalogue, on the website and for publicity.
