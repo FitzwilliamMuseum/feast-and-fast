@@ -9,7 +9,7 @@ thumbnail: "pineapple/pineapple.png"
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/poster.png" />
+    <img class="img-fluid" src="/images/discover/pineapple/poster.png" />
   </div>
   <figcaption class="figure-caption">
     Exhibition poster
@@ -22,7 +22,7 @@ We chose the pineapple as the logo for Feast & Fast for several reasons. Since t
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/pineapple-railing-long-horizontal-2560x1707.jpg" />
+    <img class="img-fluid" src="/images/discover/pineapple/pineapple-railing-long-horizontal-2560x1707.jpg" />
   </div>
   <figcaption class="figure-caption">
     Pineapple finials on the railing
@@ -33,7 +33,7 @@ More specifically, the pineapple is a key motif in the exhibition, given that it
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/pineapplePortrait.jpeg" />
+    <img class="img-fluid" src="/images/discover/pineapple/pineapplePortrait.jpeg" />
   </div>
 </figure>
 
@@ -43,7 +43,7 @@ To celebrate Decker’s botanical achievement, his links with Bradley and Cambri
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/Pineapple Feast and Fast_3_201911_mfj22_dc1.jpg" />
+    <img class="img-fluid" src="/images/discover/pineapple/Pineapple Feast and Fast_3_201911_mfj22_dc1.jpg" />
   </div>
 </figure>
 
@@ -55,13 +55,13 @@ Ivan generously offered to let us use his late 18th-century hinged tripartite pe
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_0345.jpg" />
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_0345.jpg" />
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_0347.jpg" />
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_0347.jpg" />
   </div>
 </figure>
 
@@ -71,13 +71,13 @@ After storing the ice cream mould and salver overnight in the Museum café’s f
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5011.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5011.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5012.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5012.jpg"/>
   </div>
 </figure>
 
@@ -85,7 +85,7 @@ Here is a photo record and instructions of how we did it. (If we ever do this ag
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5004.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5004.jpg"/>
   </div>
 </figure>
 
@@ -93,13 +93,13 @@ Step 1: vigorously mix salt and ice into the sorbet to stop it from melting so q
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5006.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5006.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5008.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5008.jpg"/>
   </div>
 </figure>
 
@@ -107,7 +107,7 @@ Step 2: carefully spoon the ‘pineapple ice cream’ into all three sections of
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5010.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5010.jpg"/>
   </div>
 </figure>
 
@@ -115,7 +115,7 @@ Step 3: carry on until the mould is completely full
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5154.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5154.jpg"/>
   </div>
 </figure>
 
@@ -123,13 +123,13 @@ Step 4: carefully close the mould and put it into the freezer to solidify overni
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5155.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5155.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5159.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5159.jpg"/>
   </div>
 </figure>
 
@@ -138,7 +138,7 @@ Step 5: next morning, take a fresh pineapple and carefully saw its crown of leav
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5161.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5161.jpg"/>
   </div>
 </figure>
 
@@ -150,19 +150,19 @@ Step 6: take 3 toothpicks and carefully push them halfway into the stump of the 
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5163.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5163.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5164.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5164.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5165.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5165.jpg"/>
   </div>
 </figure>
 
@@ -171,7 +171,7 @@ Step 7: retrieve the frozen ice cream mould and glass salver from the freezer an
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5166.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5166.jpg"/>
   </div>
 </figure>
 
@@ -181,7 +181,7 @@ Step 8: carefully saw a small slice off the top of your ice cream so that it’s
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5170.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5170.jpg"/>
   </div>
 </figure>
 
@@ -189,13 +189,13 @@ Step 9: quickly place your ice cream centrally on the frozen salver, and careful
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5171.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5171.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5173.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5173.jpg"/>
   </div>
 </figure>
 
@@ -204,7 +204,7 @@ Step 10: run the ice cream and salver into the photography studio without droppi
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5177.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5177.jpg"/>
   </div>
 </figure>
 
@@ -212,13 +212,13 @@ Step 11: Let the photographer get on with her task before the ice cream melts!
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5182.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5182.jpg"/>
   </div>
 </figure>
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/IMG_5183.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/IMG_5183.jpg"/>
   </div>
 </figure>
 
@@ -226,7 +226,7 @@ Step 12: rescue the melting pineapple before it runs everywhere and makes a huge
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
-    <img src="/images/discover/pineapple/pineapple_1.jpg"/>
+    <img class="img-fluid" src="/images/discover/pineapple/pineapple_1.jpg"/>
   </div>
 </figure>
 
