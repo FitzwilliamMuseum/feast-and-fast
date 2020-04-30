@@ -52,20 +52,20 @@ In 1770, recipes for both pineapple water ice (‘Anana, or pine apple ice’, p
 <div class="row">
   <div class="col-md-4">
     <figure>
-      <img src="/images/discover/ice-cream/5.jpg" class="img-fluid" />
-      <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      <img src="/images/discover/ice-cream/5.jpg" class="img-fluid" alt="Title page for the confectionary recipe book"/>
+      <figcaption class="figure-caption">Title page for the confectionary recipe book.</figcaption>
     </figure>
   </div>  
   <div class="col-md-4">
     <figure>
-      <img src="/images/discover/ice-cream/6.jpg" class="img-fluid" />
-      <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      <img src="/images/discover/ice-cream/6.jpg" class="img-fluid" alt="Recipe for Anana or pineapple ice cream"/>
+      <figcaption class="figure-caption">Recipe for Anana or pineapple ice cream</figcaption>
     </figure>
   </div>
   <div class="col-md-4">
     <figure>
-      <img src="/images/discover/ice-cream/7.jpg" class="img-fluid" />
-      <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      <img src="/images/discover/ice-cream/7.jpg" class="img-fluid" alt="Recipe for Anana or pineapple ice cream"/>
+      <figcaption class="figure-caption">Recipe for Anana or pineapple ice cream</figcaption>
     </figure>
   </div>
 </div>
@@ -74,14 +74,15 @@ The other English recipe to be published hot on the heels of Emy and Borella was
 <div class="row">
   <div class="col-md-6">
     <figure>
-      <img src="/images/discover/ice-cream/8.jpg" class="img-fluid" />
-      <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      <img src="/images/discover/ice-cream/8.jpg" class="img-fluid"
+      alt="Title page of The Complete Confectioner (London, 1789)"/>
+      <figcaption class="figure-caption">The Complete Confectioner (London, 1789)</figcaption>
     </figure>
   </div>
   <div class="col-md-6">
     <figure>
-      <img src="/images/discover/ice-cream/9.jpg" class="img-fluid" />
-      <figcaption class="figure-caption">A caption for the above image.</figcaption>
+      <img src="/images/discover/ice-cream/9.jpg" class="img-fluid" alt="Frederick Nutt's ice cream recipe"/>
+      <figcaption class="figure-caption">Frederick Nutt's ice cream recipe</figcaption>
     </figure>
   </div>
 </div>
@@ -89,10 +90,12 @@ The other English recipe to be published hot on the heels of Emy and Borella was
 As the title-page reveals, Nutt had been apprenticed ‘to the well-known Messers. Negri and Witten of Berkley-Square’. These were the successors of another Italian immigrant, Domenico Negri from Turin, who had established ‘The Pot and Pineapple’, a fashionable confectionery shop in Berkeley Square, London, which he ran with his English wife, Ann Gunter. By the early 19th-century, this establishment was known as ‘Gunter’s’, but was still popularly referred to as ‘The Pineapple’. Ivan’s early 19th-century pewter sorbetiere for mixing ice cream (also exhibited in Feast & Fast together with the pineapple ice cream mould and a spaddle) is from Gunter’s, and may well have been used in the production of pineapple ice cream, as well as other luxury fruit ices.
 
 <div class="row">
+<div class="col-md-12">
   <figure>
-    <img src="/images/discover/pineapple/pineapple_1.jpg" class="img-fluid" />
-    <figcaption class="figure-caption">A caption for the above image.</figcaption>
+    <img src="/images/discover/pineapple/pineapple_1.jpg" class="img-fluid" alt="early 19th-century pewter sorbetiere for mixing ice cream (also exhibited in Feast & Fast together with the pineapple ice cream mould and a spaddle)"/>
+    <figcaption class="figure-caption">Early 19th-century pewter sorbetiere for mixing ice cream (also exhibited in Feast & Fast together with the pineapple ice cream mould and a spaddle).</figcaption>
   </figure>
+  </div>
 </div>
 
 Ivan told me,
