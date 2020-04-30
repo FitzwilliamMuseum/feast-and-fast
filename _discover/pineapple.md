@@ -5,7 +5,8 @@ slug: behind-the-scenes
 thumbnail: "pineapple/pineapple.png"
 ---
 
-> ‘We love the pineapple ice cream image on the lamp-post banners and posters advertising the Feast & Fast exhibition. Why did you choose it for the show’s logo, and how did you make it?’ {: .blockquote }
+> ‘We love the pineapple ice cream image on the lamp-post banners and posters advertising the Feast & Fast exhibition. Why did you choose it for the show’s logo, and how did you make it?’
+{: .blockquote }
 
 <figure class="col-md-12">
   <div class="embed-responsive embed-responsive-4by3">
