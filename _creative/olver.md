@@ -45,3 +45,8 @@ then clapped his holy hands—unflummoxed,
 his lamb sprang nimbly from their stomachs.  
 
 **Catherine Olver**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/11_1.jpg" class="figure-img img-fluid rounded" alt="The Miracles of San Francesco">
+  <figcaption class="figure-caption">The Miracles of San Francesco</figcaption>
+</figure>
