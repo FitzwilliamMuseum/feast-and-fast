@@ -30,3 +30,8 @@ Frozen like the picture, the dead-fall in
 Perpetual abeyance allows their fire to burn in the cold.
 
 **Paul Holland**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/12.jpg" class="figure-img img-fluid rounded" alt="The Bird Trap by Pieter Brueghel the Younger">
+  <figcaption class="figure-caption">The Bird Trap by Pieter Brueghel the Younger</figcaption>
+</figure>
