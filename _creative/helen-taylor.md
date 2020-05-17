@@ -88,3 +88,63 @@ Complete list of literature resources used in the workshops:
 * ‘Fairytale logic’, A.E. Stallings
 * ‘Musee des Beaux Arts’, W.H. Auden
 * Hansel and Gretel picturebook, Anthony Browne
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.url }}/images/creative/1_1.jpg" >
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_1.jpg" >
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_2.jpg" >
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_3.jpg" >
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_4.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_5.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_6.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_7.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_8.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_9.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_10.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_11.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_12.jpg" >
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" <img class="d-block w-100" src="{{ site.url }}/images/creative/1_13.jpg" >
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
