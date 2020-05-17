@@ -23,3 +23,8 @@ Cannot be trusted.
 Do not sip
 
 **Paul Holland**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/8.jpg" class="figure-img img-fluid rounded" alt="The Nautilus cup">
+  <figcaption class="figure-caption">The Nautilus cup</figcaption>
+</figure>

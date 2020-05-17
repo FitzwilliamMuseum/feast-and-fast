@@ -19,3 +19,8 @@ My daughter picks up.  
 **Paul Holland**
 
 [Inspired by the Nautilus Cup]
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/7.jpg" class="figure-img img-fluid rounded" alt="The Nautilus cup">
+  <figcaption class="figure-caption">The Nautilus cup</figcaption>
+</figure>

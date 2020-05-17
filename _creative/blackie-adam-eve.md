@@ -13,3 +13,9 @@ Johann takes up the copper plate on which to work. He faintly sees his own consc
 When the light has gone Johann lays down his brush returning to his pestle and stone mortar. Worn down by doubt he grinds his garden into existence while longing for dawn. The naked models, caring not a fig for the artist’s angst, put on their mundane clothes of manual labour and step into a darkening night. Outside his Nuremberg studio the snow rallies on the city’s flawed and rambling roofs as the black forests to the East turn half white with medieval virtue. They are not yet on trial.
 
 **Sebastian Blackie**
+
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/9.jpg" class="figure-img img-fluid rounded" alt="Adam and Eve in Paradise by Johann König, Nuremberg 1629">
+  <figcaption class="figure-caption">Adam and Eve in Paradise by Johann König, Nuremberg 1629</figcaption>
+</figure>
