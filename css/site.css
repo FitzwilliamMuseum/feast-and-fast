@@ -95,6 +95,7 @@ footer, .chip-icon {
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #eee;
 }
 
 a {
@@ -299,7 +300,7 @@ label.cm-app-label {
 }
 
 .intro-card {
-  background-color:rgba(115, 18, 0, 0.1);
+  background-color: #fff;
 }
 
 .not-intro {
@@ -449,4 +450,7 @@ body {
 }
 figcaption.figure-caption {
     font-size: 1rem!important;
+}
+.card {
+  box-shadow: none!important;
 }
