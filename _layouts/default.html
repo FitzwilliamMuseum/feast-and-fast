@@ -54,6 +54,11 @@
       <div class="mb-3">
           {{ content }}
       </div>
+      {% elsif page.url == '/creative/' %}
+      <div class="mb-3">
+
+          {{ content }}
+      </div>
       {% elsif page.url == '/objects/' %}
       <div class="mb-3">
           {{ content }}
@@ -64,11 +69,35 @@
               <h1 id="doc-main-h1">{{ post.title }}</h1>
           </div>
       </div>
-
       <div class="mb-3">
           {{ content }}
       </div>
       {% else %}
+      {{ post.audio }}
+      {%if page.audio%}
+        <div class="shadow-sm p-3 mx-auto mb-3 rounded" id="player">
+          <div class="plyr">
+            <div class="embed-responsive audio-player">
+              <audio id="player" controls class="embed-responsive-item">
+                <source src="{{ site.url }}/{{ page.audio}}" type="audio/aac">
+                </audio>
+              </div>
+            </div>
+        </div>
+      {% endif %}
+
+      {%if page.video %}
+      <div class="shadow-sm p-3 mx-auto mb-3 rounded" id="player">
+
+        <div class="plyr">
+          <div class="embed-responsive video-player embed-responsive-16by9">
+            <video id="player" class="embed-responsive-item" playsinline controls >
+                <source src="{{ site.url }}/{{ page.video}}" type="video/mp4"/>
+            </video>
+            </div>
+          </div>
+        </div>
+      {% endif %}
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 rounded intro-card">
           {% if page.collection == 'discover' %}
           <span class="mb-1 mt-1 badge badge-wine float-right p-1">{% include read_time.html %}</span>

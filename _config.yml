@@ -58,6 +58,9 @@ collections:
    posts:
       output: true
       permalink: /labels/:slug
+   creative:
+      output: true
+      permalink: /:collection/:slug    
 feed:
   collections:
     - events
