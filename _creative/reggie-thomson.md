@@ -23,3 +23,15 @@ And, to a Scottish genealogist, that’s like finding a brother.
 **Reggie Thomson**
 
 [in response to Theodorus Netscher’s pineapple painting grown in Sir Matthew Decker’s garden, but also John Parkinson’s Theatrum Botanicum]
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/2_1.jpg" class="figure-img img-fluid rounded" alt="Theodorus Netscher’s pineapple painting grown in Sir Matthew Decker’s garden">
+  <figcaption class="figure-caption">Theodorus Netscher’s pineapple painting grown in Sir Matthew Decker’s garden</figcaption>
+
+</figure>
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/2_2.jpg" class="figure-img img-fluid rounded" alt="John Parkinson’s Theatrum Botanicum">
+  <figcaption class="figure-caption">John Parkinson’s Theatrum Botanicum</figcaption>
+
+</figure>
