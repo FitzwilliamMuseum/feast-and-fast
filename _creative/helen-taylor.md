@@ -52,7 +52,14 @@ The writing task set for participants this week was to continue a work already i
 
 In this final workshop we discussed several literary works: ‘Mrs Midas’ by Carol Ann Duffy, ‘Rapunzstiltskin’ by Liz Lochhead, ‘Fairytale logic’ by A.E. Stallings, Hansel and Gretel - Picturebook by Anthony Browne, and finally ‘Musee des Beaux Arts’, W.H. Auden’s wonderful poem about Brueghel’s painting Landscape with the Fall of Icarus where daily life appears to be going on as usual and yet a tragedy is unfolding.  Here’s the final verse:
 
->‘In Brueghel's Icarus, for instance: how everything turns away Quite leisurely from the disaster; the ploughman may Have heard the splash, the forsaken cry, But for him it was not an important failure; the sun shone As it had to on the white legs disappearing into the green Water, and the expensive delicate ship that must have seen Something amazing, a boy falling out of the sky, Had somewhere to get to and sailed calmly on.’
+>‘In Brueghel's Icarus, for instance: how everything turns away   
+Quite leisurely from the disaster; the ploughman may   
+Have heard the splash, the forsaken cry,   
+But for him it was not an important failure; the sun shone  
+ As it had to on the white legs disappearing into the green   
+Water, and the expensive delicate ship that must have seen   
+Something amazing, a boy falling out of the sky,   
+Had somewhere to get to and sailed calmly on.’
 {: .blockquote }
 
 This led to more discussions about Feast & Fast and about several exhibits: the Turkish jug with hinged cover, the tiny print of Hares roasting a hunter and three paintings: A lady holding a plate with a waffle, River scene by moonlight and Winter landscape with skaters and bird trap. The latter painting by Brueghel resulted in one of the poems you will read here, showing how a painting can open a door to new meanings and inspirations.
