@@ -39,3 +39,8 @@ over whose shoulder
 watch yellowing uneasy skies
 
 **Janet Hujon**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/14.jpg" class="figure-img img-fluid rounded" alt="Jan Weenix’s - Dead Game and Fruit">
+  <figcaption class="figure-caption">Jan Weenix’s - Dead Game and Fruit</figcaption>
+</figure>

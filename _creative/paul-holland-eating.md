@@ -25,3 +25,8 @@ And on and on and down, then out.
 **Paul Holland**
 
 [inspired by Still Life with fruit and calf’s tongue by Jan Davidsz. De Heem]
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/5.jpg" class="figure-img img-fluid rounded" alt="Still Life with fruit and calf’s tongue by Jan Davidsz. De Heem">
+  <figcaption class="figure-caption">Still Life with fruit and calf’s tongue by Jan Davidsz. De Heem</figcaption>
+</figure>

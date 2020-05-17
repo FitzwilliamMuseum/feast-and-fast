@@ -30,3 +30,8 @@ She fades, a mismatched saucer against the endless cloth of dawn,
 as weary as the men unloading their haul.
 
 **Deborah Smethers**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/13.jpg" class="figure-img img-fluid rounded" alt="Nightfishing">
+  <figcaption class="figure-caption">Nightfishing</figcaption>
+</figure>

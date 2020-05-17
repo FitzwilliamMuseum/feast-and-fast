@@ -25,3 +25,13 @@ portion of a picnic by Cezanne.
 **Claudine Toutoungi**
 
 [Inspired by "Still life with a lobster" by Joris van Son and Still life of a bowl of wild strawberries with the sugar loaf]
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/6_1.jpg" class="figure-img img-fluid rounded" alt="Still life of a bowl of wild strawberries with the sugar loaf">
+  <figcaption class="figure-caption">Still life of a bowl of wild strawberries with the sugar loaf</figcaption>
+</figure>
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/6_2.jpg" class="figure-img img-fluid rounded" alt="Still life with a lobster">
+  <figcaption class="figure-caption">"Still life with a lobster" by Joris van Son</figcaption>
+</figure>
