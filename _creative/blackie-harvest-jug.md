@@ -17,3 +17,13 @@ As I stare helpless at the bland ceiling my mind is not empty, just full of hole
 The girl became a potter. She found her dyslexic brain, which struggled with the lofty structures of words, was fluent when giving form to lumpen, plastic clay. With clay her fingers could tell stories, with clay she started to understand the world and bring light to the dark East Anglian landscape of her childhood. Like doubting Thomas it was through her hands she began to believe, not in Jesus but in herself as she centered the clay on the spinning wheel. When she chanced to see the harvest jug it was as if a land of plenty was pouring from its spout, its robust handle, like that of a spade burnished from use, gripped firm by an arm hardened by manual labour. Its warm lead glaze flowing like honey over its rounded belly reminded her of barley ripening in the sun on plump West-country hills and the intoxicating smell of a harvested field on a warm summer’s evening. Decorated with flowers and script scratched through the creamy Devon ball clay to the russet earthenware beneath. The head of a woman and a man adorn its broad shoulders, celebrating the union of hardy farmers; this clumsy image, once drawn with the freshness of children, on a vessel that has now grown old. Battered by hard living it is chipped and cracked from lip to foot and the slip on its belly has flaked leaving gaps in its thinking. Like some ancient pealing mirror, she reflected, it is redundant, its function left to the imagination. The thirsty workers that once filled up the fields at harvest time are also gone. They toiled and rested for a while to pour forth at the end of day. Now the empty beaten jug stands in their stead, brittle testament to a bitter harvest.
 
 **Sebastian Blackie**
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/11_1.jpg" class="figure-img img-fluid rounded" alt="The Bird Trap by Pieter Brueghel the Younger">
+  <figcaption class="figure-caption">The Bird Trap by Pieter Brueghel the Younger</figcaption>
+</figure>
+
+<figure class="figure">
+  <img src="{{ site.url }}/images/creative/11_1.jpg" class="figure-img img-fluid rounded" alt="A harvest jug">
+  <figcaption class="figure-caption">A harvest jug</figcaption>
+</figure>
