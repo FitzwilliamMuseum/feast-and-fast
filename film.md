@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feast and Fast, the film
+title: Feast and Fast, the films
 ---
 
 Feast & Fast tells the stories of people in early modern Europe coming together to produce, prepare, and consume food. The Fitzwilliam Museum asked three groups of people who regularly take part in activities at the museum to help us bring the story up-to-date by sharing their memories and experiences.
@@ -18,6 +18,8 @@ Running time: 12 minutes
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3jf23sAahFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+Running time: 13 minutes 27 seconds
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/db5-tjOnTWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
