@@ -41,6 +41,7 @@ To echo Ivan Day’s reconstruction of a Sugar Banquet for an English Tudor Wedd
 We then discussed food and social status and returned to the exhibition to take a closer look at the still life paintings; in particular, Still Life with Lobster by Joris van Son, Rotting Fruit and Nuts on a Stone Ledge by Abraham Mignon and De Heem’s Still Life with Fruit and Calf Tongue. The remainder of the session was spent drafting in prose or poetry, a close description of one of the exhibits in the exhibition.
 
 ### Workshop 2: Issues around food: gluttony, famine, slavery, eating disorders and identity
+
 We began the workshop by sharing and constructively commenting on everyone’s work in progress. We discussed the importance of reading work aloud as part of working on a piece of writing and how rhythms and beats hold writing together.
 We then moved on to the themes: issues around food, gluttony, famine, slavery, eating disorders and identity. As before, we used several pieces of literature as inspiration. We started with Philip Gross’s, ‘I’m fat, look fat’ poem from his collection, The Wasting Game, about his daughter’s anorexia. We then considered an extract about food for invalids from Mrs Beeton’s Book on Household Management, and one about the differences between dining at Kings College and Girton College from A Room of One’s Own by Virginia Woolf.
 
