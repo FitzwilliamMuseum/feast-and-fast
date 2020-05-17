@@ -8,6 +8,8 @@ venue: Seminar Room (35)
 thumbnail: 27Nov.jpg
 slug: italian-food
 ---
+**Cancelled due to C-19 Pandemic**
+
 A talk with Professor Diego Zancani, Emeritus Professor of Italian, University of Oxford.
 
 Admission is by token, one per person, available at the Courtyard Entrance desk on a first-come first-served basis 30 minutes before the talk. Assisted hearing sets are available.
