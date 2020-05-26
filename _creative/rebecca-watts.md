@@ -15,7 +15,7 @@ whispers
 </p>
 
 <p class="ml-5">
-he was here
+	<em>he was here</em>
 </p>
 <p>
 soft skin<br/>
@@ -25,7 +25,7 @@ caught falling
 sighing
 </p>
 <p>
-he was here
+	<em>he was here</em>
 </p>
 <p>
 and hanging<br/>
@@ -35,8 +35,9 @@ in the slowed-down air
 his scent
 </p>
 <p>
-his turpentine<br/>
-his earthy
+his <em>turpentine</em>
+	<br/>
+	his <em>earthy</em>
 </p>
 <p class="ml-5">
 as fruit
@@ -54,10 +55,12 @@ and wherever
   (up early)
 </p>
 <p>
-his thumbnails cede pomegranate
+his thumbnails cede
+<br/>
+	<em>pomegranate</em>
 </p>
 <p class="ml-5">
-	flesh of my flesh
+	<em>flesh of my flesh</em>
 </p>
 **Rebecca Watts**
 
