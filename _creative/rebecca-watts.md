@@ -66,5 +66,4 @@ his thumbnails cede
 
 <figure class="figure">
   <img src="{{ site.url }}/images/creative/3.jpg" class="figure-img img-fluid rounded" alt="Intimations (Nature Morte)">
-  
 </figure>
