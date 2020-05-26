@@ -73,15 +73,16 @@
           {{ content }}
       </div>
       {% else %}
-      {{ post.audio }}
       {%if page.audio%}
-        <div class=" p-3 mx-auto mb-3 rounded" id="player">
-          <div class="plyr">
-            <div class="embed-responsive audio-player">
-              <audio id="player" controls class="embed-responsive-item">
-                <source src="{{ site.url }}/{{ page.audio}}" type="audio/aac">
-                </audio>
-              </div>
+        <div class="col-md-12 mb-2">
+            <div class=" p-3 mx-auto mb-3 rounded" id="player">
+              <div class="plyr">
+                <div class="embed-responsive audio-player">
+                  <audio id="player" controls class="embed-responsive-item">
+                    <source src="{{ site.url }}/{{ page.audio}}" type="audio/aac">
+                    </audio>
+                  </div>
+                </div>
             </div>
         </div>
       {% endif %}
