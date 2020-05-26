@@ -19,7 +19,7 @@ The girl became a potter. She found her dyslexic brain, which struggled with the
 **Sebastian Blackie**
 
 <figure class="figure">
-  <img src="{{ site.url }}/images/creative/11_1.jpg" class="figure-img img-fluid rounded" alt="The Bird Trap by Pieter Brueghel the Younger">
+  <img src="{{ site.url }}/images/creative/12.jpg" class="figure-img img-fluid rounded" alt="The Bird Trap by Pieter Brueghel the Younger">
   <figcaption class="figure-caption">The Bird Trap by Pieter Brueghel the Younger</figcaption>
 </figure>
 
