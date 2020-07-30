@@ -6,9 +6,9 @@ layout: default
 
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 31 August 2020</h3>
 <h4 class="text-center font-weight-bold">Free entry</h4>
-
-<a class="btn btn-dark text-center" href="https://tickets.museums.cam.ac.uk" role="button">Book your ticket</a>
-
+<p class="text-center">
+<a class="btn btn-dark" href="https://tickets.museums.cam.ac.uk" role="button">Book your ticket</a>
+</p>
 <blockquote class="blockquote text-center">
   <p>Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed"> The Spectator</a><br/>
   ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘     
