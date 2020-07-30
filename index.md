@@ -8,7 +8,9 @@ layout: default
 <h4 class="text-center font-weight-bold">Free entry</h4>
 
 <p class="text-center">
-<a class="btn btn-dark" href="https://tickets.museums.cam.ac.uk" role="button">Book your ticket</a>
+<a class="btn btn-dark" 
+href="https://tickets.museums.cam.ac.uk"
+ role="button">Book your ticket</a>
 </p>
 
 <blockquote class="blockquote text-center">
