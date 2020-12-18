@@ -458,8 +458,7 @@ figcaption.figure-caption {
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote{
   font-size: 1.4em;
-  width:60%;
-  margin:50px auto;
+   margin:50px auto;
   font-family:Open Sans;
   font-style:italic;
   color: #555555;
@@ -473,7 +472,7 @@ blockquote{
 blockquote::before{
   font-family:Arial;
   content: "\201C";
-  color:#78C0A8;
+  color:#000;
   font-size:4em;
   position: absolute;
   left: 10px;
