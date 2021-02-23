@@ -2,7 +2,7 @@
 layout: default
 ---
 
-!["Pineapple on glassware stand"](/images/layouts/ffpaint.jpg){: .img-fluid .float-right .rounded .p2}  
+!["Pineapple on glassware stand"](/images/layouts/ffpaint.jpg){: .img-fluid .float-right .rounded .p2 .ml-2}  
 
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 31 August 2020</h3>
 <h4 class="text-center font-weight-bold">This exhibition is now closed</h4>
