@@ -7,16 +7,6 @@ layout: default
 <h3 class="text-center">Tuesday 26 November 2019 to Sunday 31 August 2020</h3>
 <h4 class="text-center font-weight-bold">This exhibition is now closed</h4>
 
-
-<blockquote class="blockquote text-center">
-  <p>Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed"> The Spectator</a><br/>
-  ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘     
-  <a href="https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/">The Telegraph</a><br />
-  'The exhibition is a delight:erudite and joyful, it sparks endless reflection..' <a href="https://www.the-tls.co.uk/articles/all-things-nice/">TLS</a></p>
-</blockquote>
-
-
-
 Food defines us as individuals, communities, and nations: we are what we eat and,
 equally, what we don’t eat. When, where, why, how and with whom we eat are crucial to our identity. Feast & Fast presents novel approaches to understanding the history and culture of food and eating.
 
@@ -26,4 +16,11 @@ To complement Feast & Fast, a flamboyant 4-metre tall pineapple installation cre
 design - will be displayed on the Museum’s front lawn for the duration of the
 exhibition and illuminated at night.
 
-<!-- !["Sensual Virtual banner advert"](/images/layouts/SV.png){: .img-fluid rounded } -->
+<blockquote class="blockquote text-center">
+  <p>Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed"> The Spectator</a><br/>
+  ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘     
+  <a href="https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/">The Telegraph</a><br />
+  'The exhibition is a delight:erudite and joyful, it sparks endless reflection..' <a href="https://www.the-tls.co.uk/articles/all-things-nice/">TLS</a></p>
+</blockquote>
+
+!["Sensual Virtual banner advert"](/images/layouts/SV.png){: .img-fluid rounded }
