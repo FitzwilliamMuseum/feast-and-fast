@@ -16,7 +16,7 @@ To complement Feast & Fast, a flamboyant 4-metre tall pineapple installation cre
 design - will be displayed on the Museum’s front lawn for the duration of the
 exhibition and illuminated at night.
 
-<blockquote class="blockquote text-center">
+<blockquote class="blockquote text-center mt-3 mb-3">
   <p>Remarkable and Imaginative’<a href="https://www.spectator.co.uk/2019/11/remarkable-and-imaginative-fitzwilliam-museums-the-art-of-food-reviewed"> The Spectator</a><br/>
   ‘Highly Entertaining &#9733;&#9733;&#9733;&#9733;‘     
   <a href="https://www.telegraph.co.uk/art/reviews/feast-fast-art-food-europe-review-fitzwilliam-banquet-morsels/">The Telegraph</a><br />
