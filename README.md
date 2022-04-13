@@ -1,5 +1,13 @@
 # Feast and fast - Fitzwilliam Museum
 
+[![DOI](https://zenodo.org/badge/173968695.svg)](https://zenodo.org/badge/latestdoi/173968695)
+
+Content licensed under: [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335) [![DOI]
+
+Code: GPL V3
+
 This repository will hold code for the Feast and Fast project. This project
 contains data pulled from AdLib, curatorial interpretation, video and audio content and additional materials. It is written in Jekyll, hosted on GH-Pages and is an experimental piece.
 
@@ -18,7 +26,7 @@ Copyright the University of Cambridge unless noted otherwise.
 
 Website by [@portableant](https://github.com/portableant)
 
-Images by Michael Jones, Andrew Norman, Amy Jugg and Katie Young of the Fitzwilliam Museum. 
+Images by Michael Jones, Andrew Norman, Amy Jugg and Katie Young of the Fitzwilliam Museum.
 
 CSS framework: http://daemonite.github.io/material/
 
