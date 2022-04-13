@@ -1,12 +1,7 @@
 # Feast and fast - Fitzwilliam Museum
 
-[![DOI](https://zenodo.org/badge/173968695.svg)](https://zenodo.org/badge/latestdoi/173968695)
+[![DOI](https://zenodo.org/badge/173968695.svg)](https://zenodo.org/badge/latestdoi/173968695) [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
 
-Content licensed under: [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335) [![DOI]
-
-Code: GPL V3
 
 This repository will hold code for the Feast and Fast project. This project
 contains data pulled from AdLib, curatorial interpretation, video and audio content and additional materials. It is written in Jekyll, hosted on GH-Pages and is an experimental piece.
@@ -33,8 +28,7 @@ CSS framework: http://daemonite.github.io/material/
 ## Licenses
 
 * AGPL for code
-* CC-BY for content (text and images) unless stated
-otherwise
+* Content licensed under: [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 * Some content is under institutional licence and will be highlighted if so.
 
 ## Contributing guidelines
