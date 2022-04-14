@@ -12,7 +12,7 @@ contains data pulled from AdLib, curatorial interpretation, video and audio cont
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/feast-and-fast.git beyond-the-label`
+   `git clone https://github.com/FitzwilliamMuseum/feast-and-fast.git`
 * Change to the directory and then run this command in terminal `bundle exec jekyll serve`
 
 ## Credits
