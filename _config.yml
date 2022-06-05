@@ -60,13 +60,13 @@ collections:
       permalink: /labels/:slug
    creative:
       output: true
-      permalink: /:collection/:slug    
+      permalink: /:collection/:slug
 feed:
   collections:
     - events
     - discover
     - posts
-
+background: 'https://content.fitz.ms/fitz-website/assets/baroque.jpg?key=exhibition'
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
