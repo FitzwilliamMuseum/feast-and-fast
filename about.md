@@ -6,9 +6,8 @@ title: About the exhibition
 
 
 <h3 class="text-center">Fitzwilliam Museum, Cambridge | 26 November 2019 – 31 August 2020</h3>
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X2WpG94iIr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<a href="https://www.youtube.com/watch?v=X2WpG94iIr4">Watch: Feast &amp; Fast - Now open until 31st of August. Book online now!</a>
 
 Feast & Fast: The Art of Food in Europe, 1500-1800 is the latest interdisciplinary research-led collaboration between Victoria Avery and Melissa Calaresu of Cambridge University, together with the internationally renowned food historian, Ivan Day.
 
